@@ -1,13 +1,39 @@
-=== RPF PUBLIC LICENSE ===
+=== COMMON-SENSE FREE-USE LICENSE v0.0 ===
 
-I don't believe in legalese or long contracts:
+I don't believe in legalese. However, for the purposes of ease of understanding, "THE SOFTWARE" should be understood to mean both the contents in their entirety and/or any subset of the contents of THE SOFTWARE.
 
-1) I make no warranty of any kind about whether or not anything in here works, is secure, won't break into your house and wreck up the place, etc.  For all you know, every line of code in here will steal your credit card information.  But since you can read every line of code in here, you ought to be able to make up your mind whether or not you want to use it.
-2) You can take anything in here you like and use it however you like, and I can't later on change my mind and sue you for infringing my intellectual property.  I mean it.  You can copy and paste my code into a homework assignment for CS103, take the whole repo and sell it to a rich sheik for a diamond the size of your head, whatever you want.
-3) However, you can't patent/copyright the code yourself and then try to sue me/anyone else who's used "your" code.  This isn't "copyleft," it's "usage rights."  I hereby grant unlimited usage rights without possibility of revocation to the public, but I retain ownership for the sole purpose of maintaining free usage by any and all comers.  It's a subtle point.
-4) If you use something, let me know.  It makes one feel good to have produced something useful.  I'd be touched if you gave me credit somewhere, but that's absolutely not necessary.
-5) If you take something and improve it, consider giving it back to the community. Note that I don't mean that you should, if you use one class from here for a program with 700 classes, make the whole thing open-source. I mean, hey, that'd be nice, but I'm just saying that if you find a way to make the one class of mine that you used better, maybe push it back up here.
-6) No complaining.
+This license grants you the following rights:
 
-RPF 2013
+YOU CAN:
+	1) use THE SOFTWARE in any project, commercial, noncommercial, educational, or other, royalty-free, without hindrance in perpetuity.  I mean it.  You can copy and paste my code into a homework assignment for CS103, take the whole repo and sell it to a rich sheik for a diamond the size of your head, whatever you want.
+	2) modify THE SOFTWARE to form a derivative work, which is also granted usage license as above.  I'd argue that, since I've defined your usage rights as being to any part of THE SOFTWARE, you can't really "modify" it per se; you'd just be using less of THE SOFTWARE and more of your own code.  But whatever.
+	3) include THE SOFTWARE in any larger body of work carrying a different license, provided THE SOFTWARE continues to be bound by this license.  The license doesn't "bubble up."
+	4) distribute THE SOFTWARE in any way, for any price, on any medium.  Even floppy disks, smoke signals, and psychic transmissions from magicians.
+	5) use THE SOFTWARE in an open-source project.  This license doesn't have anything to say about open-source because open-source is a use of THE SOFTWARE, so see #1, and see #3 for how to use THE SOFTWARE in a larger body of work under a different license.
+	4) continue to use any version of THE SOFTWARE you have obtained by any means even if this license changes at a later date.  Write that one down.
+
+YOU CANNOT:
+	1) hold me or any other contributor liable for any damages resulting from your use of THE SOFTWARE.  There is no warranty, explicit or implied, of any kind about whether or not anything in here works, is secure, won't break into your house and wreck up the place, etc.  For all you know, every line of code in here will steal your credit card information.  But since you can read every line of code in here, you ought to be able to make up your mind whether or not you want to use it.  Use at your own risk.  Standard legal boilerplate.
+	2) patent or copyright THE SOFTWARE.  The authors (me and anyone else who contributes to THE SOFTWARE) retain intellectual property rights in any form they might take, and retain the right to modify this license, although such modifications cannot be applied retroactively.  Basically, you can use it all you want however you want, but you're using it, not owning it.
+	3) retain usage rights to any modifications you make to THE SOFTWARE and submit to be included in THE SOFTWARE.  The license isn't contagious or "copyleft" but if you put code back into THE SOFTWARE, it's going to be covered by this license.
+	4) hold any other user of THE SOFTWARE or contributor to it liable for infringement of patent/copyright for any code derived from THE SOFTWARE, either by copy or by modification, though THE SOFTWARE may be included as part of a larger project which does not include this stipulation.  In other words, you can't take some code, develop a product with it, then turn around and sue someone using THE SOFTWARE in some other way because they're using part of your codebase, although you could sue them if they were using another part of your codebase not covered by this license.  This should probably be taken as a given since you can't copyright or patent THE SOFTWARE yourself but it helps to spell it out.
+	5) use anything associated with THE SOFTWARE where express license has not been granted.  You can't use my name, any other contributors' names, any organizational trademarks that might be involved, the Unholy Monstrosity name or branding, anything derived from THE SOFTWARE which is not covered by this license, any other repositories developed by the same person or persons, or anything else that isn't explicitly included in THE SOFTWARE that you check out of the server, without permission, possibly in the form of some other license.  This license isn't contagious.  At all.
+
+YOU MUST:
+	1) include this license if you distribute THE SOFTWARE in whole or in part.  I don't really care if you actually include the file or just link to it.
+		a) If you use any "libraries" in THE SOFTWARE as third-party libraries without modification, include this file with whatever files you use.
+		b) If you copy and paste a function, put a comment in with a link.
+		c) If you copy a chunk of code or algorithm... well, it'd be nice if you put a link there too, but at that point I think it probably falls under fair use or inspiration or something, and I'm not one to quibble over inspiration.
+		d) Hey, if you want to include this file in any of the above situations, go for it.
+	I'm not making this stipulation because I want credit or because I'm a control freak, but if you don't give notice of this license, then three links down the distribution chain someone will turn around and sue because they can claim they made no such licensing agreement.
+	2) be excellent to each other and party on, dudes.  This last one is mandatory.
+
+YOU MIGHT, SHOULD YOU FEEL SO INCLINED:
+	1) contribute to THE SOFTWARE, either with modifications or improvements you've made, extensions, additions, whatever.  The Unholy Monstrosity has always been a piecemeal affair.  Unlike other licenses, this part isn't mandatory.
+	2) let me know if you've used THE SOFTWARE, however you do it.  One likes to know that something one has made was useful.  Not mandatory.
+	3) give credit where credit is due.  The inclusion of this license isn't for credit, but for the reasons explained above.  But it's always nice to feel wanted.
+	4) just use common sense.  You can do pretty much anything you want, provided you don't sue and you make sure that no one else can sue.  I'm just interested in people not getting sued.
+
+(c) RPF 2013
+
 All rights reversed; reprint what you like.
