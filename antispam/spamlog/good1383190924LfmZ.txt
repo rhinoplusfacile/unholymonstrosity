@@ -1,0 +1,95 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => QFacLjaeQXVFzyJstsT
+    [details] => Another service? <a href=" http://mipoquny.zeblog.com/ ">avva adams freeones bulletin</a>  what is the name of this gal?i want her name *** anybody knows it..she's really hot man
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6153553 ">preteen supermodel bbs</a>  I like her bathing suit!
+ <a href=" http://www.metroflog.com/qupopequg/profile ">Lolita Rompl</a>  where was all the tongue fuck in the butthole?!?!?
+ <a href=" http://aaydyqe.pornlivenews.com ">Underage Girls Nude</a>  I love when a hot ass  girl shoves her beautiful  asshole and pussy in my face.
+ 
+    [day] => This button should not be clicked by humans.
+    [firstname] => Another service? <a href=" http://mipoquny.zeblog.com/ ">avva adams freeones bulletin</a>  what is the name of this gal?i want her name *** anybody knows it..she's really hot man
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6153553 ">preteen supermodel bbs</a>  I like her bathing suit!
+ <a href=" http://www.metroflog.com/qupopequg/profile ">Lolita Rompl</a>  where was all the tongue fuck in the butthole?!?!?
+ <a href=" http://aaydyqe.pornlivenews.com ">Underage Girls Nude</a>  I love when a hot ass  girl shoves her beautiful  asshole and pussy in my face.
+ 
+    [month] => 5
+    [njqaBfVQaSgM] => Vyf0uznCx6i3q1T7u4pQW3k7BurxGk25934xMAINog3T6656
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1598
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=adf0ce29f5ce7347975fd6cbe41e3b7a
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 46.105.114.75
+    [REMOTE_PORT] => 54517
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnHRjMD@zacAAB3QNXcAAAJP
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383190924
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 2b4652492b52752b6c38473855504f757352356e375552486272546e38586d326b6e65596968524e4846737068504f5077637a37526c57744a3369304b526943434956437870653632634b4f75706b654150367a73574f65777951556973397044437233454e6f4147564955676865706d456c3839354a7148337464524b35793452623136754a5a662f5172744d74734959492b456c47784b424779456142456f7167474d6b4e494b5661496c6b573577706d643976756e734d5256416e6e4a4c58727271527262534478437a63575570794850444e4158736c786d655a49594f7338754642482b2b72782b754c48616e436c44485166573469553538643951526a584d782f39765976642b684f4e34614c416c3677644844685a4a71614568686f50747474573474503939557453554e4948456a68306732316f6a6c72634a634f496d2b69334470657964617342727a726676645967336f7a7a4a61706663454f5353666551357779794f5570337630545947535466337a39313062537970543877565853306e366b4c4557553370706570756d5939594e476e58307a76526e65475a5a472f3068776e504a7962714d347a7555327730596b64466c6e4b374d6751326271624849424d2f4c7478414946346954344e706734774734725134365279374a50654a7739695a793663735742597865534244333350444139344c4357305a66333951346e62627133716f446e52773479713665486c74384d772f6542525261714d53676b782f325437364e6a337639633442354a6c41647954642b72755a357344567345767874386a663335442b4339782b55697668387858386e666c584350304e34424a4a44726d777230466f697971336575334356374b37794a347030525a44785a4b536f2b445179644172616870486e324f2b4d71565a737231323479544962484a77766b346f75684671796c2b5974786470344a66594b717046677a687252443742683536576a664f6c643445306c4b7a774b6932656e6969375855436b6b564e326f763737455644534d41416255582f374c3974574a6c4f4933442f6872647674726c4471764a6d71793579596d5962784253616f537a4162755a705235524438524d356f61734a4d3233443542444c757a6b2b53537771725863533559375179626d3038615167775178535647507842376975454e4c6d6e4270525979786978314e457661395448347548686462636667574a3175664566674d664e38667652554d51446666656d664551596665773151522b62306747776d746665596d47722b7045574261413553566e62367a77426833714c722b6b676f664d41306a626d7834676d503143396a3755583744526f4c554351534b75764b494a7177534b314c50787174704c4e6235584354513451694b527541737a624d4a653643494a72642f65717168737779376c4642396b556736617830494f684f544d426f516346347844514b6d7672516a466c39364747565439744f774974553546704b46644b342b6f4c4d6d4d6645595a4f652f516f6f546a74767866506f6c466d68464838656d417462507957444c6c7a437539704c477630504a4a36464f6143682b744a6779767969626362396865506163714373626470454478722f307a46416d2f5a745465616233624e5a47305658333241385a616b706b65707039736b76766b4b654b4b3657446e36656168487659516168447847553173796e314662326450586b732f786e766f7678314963765364794e6e7a46637171447730645346362b454771643262595863426a36624972744b585145396857737059506669397a6549447a71456d757963394454447337746157333958505349617a634f772b48583677396f6f6b4c663343646d344d69592f2f4b417755702b4e4a6c73326e776437596430482b566366756f2b36436b674a783431774e2f7552514138304a356d38696f626363695a70504379485157643139445632506444766c62644763705869766d794c6747657034645971357342376141746a747a7471774f6b6572426374504554597665542b554266636a75744c644f764e384e642f74354e784f3436754366427262346b7778766678703778736757504d53486839746470795a78646e6e4b5a727942616d5968447074774a3564776a43384e67626f683445744844503037314961307548795978322f6131375a7336645952594e777966533446387150466133344f7762787745395758315041476d5838426c4c6672474549596e5273345538736138647659766b5a47414b35704a634a2f4b69774572785275724a4c654946735875785546456f69507652514279377961477a2f686b6f436a77614b4c6148716e744b6646396d316c61466255784154627248496a716e546c41436865545151614d50717675364949585470747978454f64704b4a677541324f77614834346b546a763949386e49335334326c364f5948506a6556744e65715077704d6c6875505a6f67414a514e51324543446672625a6348515175564b71516237762f632b2f744f3171434a766e55764a735178415a372f737a5a554a736f6e63397a6c6f517956724a4365644a4a536e3276756d345a33764f686471546f6a4a515071544a75355158616a66674a4b69616d37766b6851624a656431303851504655776c514a3361456169526c533732574a706b742b76676f67712f6a78732f57316759516a7956327167476d49673272545762384d4b4f67553973714d51734158454c534b5a4d7178532f356e4657755a326b42665a486c49593147785a46374f756e7157642b7642644f6b7475322b422f7936654c756467346967734f4274497273557a2b5a413d3d
+    [dvinciiv] => 8c0dd99867ec1a9b264df4a90895a0f1
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => QFacLjaeQXVFzyJstsT
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => QFacLjaeQXVFzyJstsT
+            [details] => Another service? avva adams freeones bulletin  what is the name of this gal?i want her name *** anybody knows it..she's really hot man
+ preteen supermodel bbs  I like her bathing suit!
+ Lolita Rompl  where was all the tongue fuck in the butthole?!?!?
+ Underage Girls Nude  I love when a hot ass  girl shoves her beautiful  asshole and pussy in my face.
+            [day] => This button should not be clicked by humans.
+            [firstname] => Another service? <a href=" http://mipoquny.zeblog.com/ ">avva adams freeones bulletin</a>  what is the name of this gal?i want her name *** anybody knows it..she's really hot man
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6153553 ">preteen supermodel bbs</a>  I like her bathing suit!
+ <a href=" http://www.metroflog.com/qupopequg/profile ">Lolita Rompl</a>  where was all the tongue fuck in the butthole?!?!?
+ <a href=" http://aaydyqe.pornlivenews.com ">Underage Girls Nude</a>  I love when a hot ass  girl shoves her beautiful  asshole and pussy in my face.
+            [month] => 5
+            [njqaBfVQaSgM] => Vyf0uznCx6i3q1T7u4pQW3k7BurxGk25934xMAINog3T6656
+        )
+
+)
+

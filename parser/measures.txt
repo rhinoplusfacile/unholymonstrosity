@@ -1,0 +1,15 @@
+form(1)=13;
+form(2)=14;
+form(3)=15;
+
+chart(245)
+{
+	numerator
+	{
+		q(1:1)==yes;
+	}
+	denominator
+	{
+		q(1:1)!=na;
+	}
+}

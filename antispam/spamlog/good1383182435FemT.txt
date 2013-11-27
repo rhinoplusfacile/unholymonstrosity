@@ -1,0 +1,96 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 3
+    [title] => BuKrHhmbWI
+    [details] => Do you like it here? <a href=" http://blogs.rediff.com/cikohauo ">lolicon preteen bbs</a>  i wanna worship that ass... Cause its sent down from heaven.... BOI the shit i would do that bitch mayne
+ <a href=" http://ybidofyhi.jigsy.com ">very young lolita sex</a>  great!   thanks for posting
+ <a href=" http://poots.com/peoples/ifesimiq/weblog ">Illegal Underage Porn</a>  Please just sit on my face?
+ 
+    [lastname] => Do you like it here? <a href=" http://blogs.rediff.com/cikohauo ">lolicon preteen bbs</a>  i wanna worship that ass... Cause its sent down from heaven.... BOI the shit i would do that bitch mayne
+ <a href=" http://ybidofyhi.jigsy.com ">very young lolita sex</a>  great!   thanks for posting
+ <a href=" http://poots.com/peoples/ifesimiq/weblog ">Illegal Underage Porn</a>  Please just sit on my face?
+ 
+    [year] => Do you like it here? <a href=" http://blogs.rediff.com/cikohauo ">lolicon preteen bbs</a>  i wanna worship that ass... Cause its sent down from heaven.... BOI the shit i would do that bitch mayne
+ <a href=" http://ybidofyhi.jigsy.com ">very young lolita sex</a>  great!   thanks for posting
+ <a href=" http://poots.com/peoples/ifesimiq/weblog ">Illegal Underage Porn</a>  Please just sit on my face?
+ 
+    [month] => 10
+    [ILYNJgGL] => 0RF85sv43Hkov97Lf36iu48
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1592
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=d2dfacf797efe01bd481ed556c685410
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 37.59.32.148
+    [REMOTE_PORT] => 56527
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnGwY8D@zacAABwnGkwAAAIN
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383182435
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 41614553755574387a5265455650633152545845522f577937412f732f46554e6d686446554635334d78674d544e7730444a364e70756e6f4167564b6836786a7644592f6f4733505957514b4f48584b4253466a4e49782f79476d55536f55584552575952334942336d476e584e7a3541337a744375326e4a4439513736474d6673334b6d476655745a5037466c4579644830676b6155366e4c623363715a67784a716e4e4a4b4a39676b4854515542627252664576426538656a572b5431315250763239626576316c57314b522b643257746e4f5644343247534474434673496a76385872516c30696b7341432f4b49663943654d6d32685a5a7447595137326b71364c4b48346546777875424a787a654d3258454946692b756c6966526f64527234753271555675766d4d497033566237433642735334777759433868546c6e722f314c4e3059433949717645522f696a74454c49714e66504d4950334851646673374646576a7261444551375a696d3368796b566b724f2b353739633271343646376e395675694974547070766b6e485150517966322b722b624844336266583138543759463853665466504c5030516a4f69376769435872567362376159537939485956314543586d7655775a726e4b6e3368413151634637772b6b6a593334612b336d3257793073574c392f746f653532717a704a4c363764366a66513863384e2b41436372647647755165756e6b59424e4170334a5a4167714c6a34787330743651725264556358523342724e33522f4649377769756c433475436f6b64416e5739316d6d7a48416164526a656779312f4367594e4368412f6f6c4c7a305556324a34436231484e77374c77646552676f50466276614664794d6b437975324e6a4b6172743675716939516f2f31727a384377487a74342f4e6c347a3946674f6e5a397257432f67655158645459563578385450544e34346d4867594243526944756b674b69363156764f797530376d52374c377843676e49647369763848696a3443694c4732662b7a4d6c6a46766c5a2b69357a393753796866596a77496c566558645665465251736649437a647251726e77316f7a70446134476f7947716c706a4d5836636b663044715a727159692f58752b5943796f65654d58485a48446c442b564d6f697941786456574562795767717a2f70467a6f6b537736783442356a494735336235786f69714633426d72756a364d747a6b48712b314b2b38675a323237424b7945775966316369377637344b306d42774a52415332345235354138304677536b55364f636d567a785a3166513930506849395468476370416f55396444366e64715370644f77677855694968625a777050372f377166344d666d6d384f4e5744426941486f35704d4f52314d695a6f70577936674f5977684d62346a714c3433343039396c5857473949725452505153755855622f2b6645422f6b4c7933676d742f65797a7056617048316657707745467830496b467766535858314e436548323868426c374e6e333856436d644f62754c6f364d4a617278355a56346c68374c3038424472734b70353559376f7267705136683377646c437463364b6870676e7349305a77477659452b6a4f62315654414d362b57592f395467585a64466173386a31734759424b4170374e5a6c614e632f646b434138524c6c6a7a57724b32786e42417a4d74593459416939345a47466371446369557469556f7348362f6562334b427344754b555761502b5a596e66594e6665316d3659524e64686e31392b363541554b355151354d6f4a50613634464f6f477362394b5037766c385a4d6b6c304d7953343132786d464e324f6654555054395945357652727138554b326c685253494965796a535031764a354a7a73496a5878445a467a4a6c7636396b346648436e645833374b4e7944324c4b6669395564656835576b314d4a624c37526f527a62546f42655a366667454f496d796a7949423533396843434d6e587676654d64634f5a5843706431594973346a454e664d4c7039447854764a676c714c4c7937326230615873416e626a732b574b315633464e4367317432524635635239524444376b4547766d4e763749796270594e314e50414a5956596e314550486865796e7079704c56656a374878576d6b3950716b59654774667a75556e55684e56457970634a6d714d796231367049626566384d68326e32675958693545446a653234693953566a6361306a4c64366568453745504a526d555632542f4c5a6157474a6247304139746856462b4e67344e624939794c466f34416d50656f426748313562692b513478586c7739514b7a304d6c3565436649546f53724d435433752f436a304f397144397872715948644451457047746f5a6b707155444e48764f33337a365375755772316f5570716d694e78562b695a3646634978336c434d6566756548536d72354449704d754e495042626472624b39643173744f476f7379427a6345364e6f365656476d2f353556764e62486b5434416d584e4b72336e42626b474e6f6a756b79456c45666b4569794d56387a7969495a796643357754675044726162645a386f62484b72586f4a43434c6161664147536b4d573232626567744f716f49636c5438693749747032644b486b6441774e4932616a7743336a576f67586d45664650663679352f67787370384368585a4d5633523145384b416a7559365551417061306a4b72496152592b4c4b694473596f54706c3376436658765a2f44355437482f655336494a32456b567555725167773d
+    [dvinciiv] => 26bf4614de59d8d8f9a676f3c8ebfd66
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 3
+    [spambot_recovery_title] => BuKrHhmbWI
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 3
+            [title] => BuKrHhmbWI
+            [details] => Do you like it here? lolicon preteen bbs  i wanna worship that ass... Cause its sent down from heaven.... BOI the shit i would do that bitch mayne
+ very young lolita sex  great!   thanks for posting
+ Illegal Underage Porn  Please just sit on my face?
+            [lastname] => Do you like it here? <a href=" http://blogs.rediff.com/cikohauo ">lolicon preteen bbs</a>  i wanna worship that ass... Cause its sent down from heaven.... BOI the shit i would do that bitch mayne
+ <a href=" http://ybidofyhi.jigsy.com ">very young lolita sex</a>  great!   thanks for posting
+ <a href=" http://poots.com/peoples/ifesimiq/weblog ">Illegal Underage Porn</a>  Please just sit on my face?
+            [year] => Do you like it here? <a href=" http://blogs.rediff.com/cikohauo ">lolicon preteen bbs</a>  i wanna worship that ass... Cause its sent down from heaven.... BOI the shit i would do that bitch mayne
+ <a href=" http://ybidofyhi.jigsy.com ">very young lolita sex</a>  great!   thanks for posting
+ <a href=" http://poots.com/peoples/ifesimiq/weblog ">Illegal Underage Porn</a>  Please just sit on my face?
+            [month] => 10
+            [ILYNJgGL] => 0RF85sv43Hkov97Lf36iu48
+        )
+
+)
+

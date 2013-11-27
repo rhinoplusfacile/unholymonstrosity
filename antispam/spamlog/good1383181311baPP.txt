@@ -1,0 +1,102 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => HWBEvbcFCEaVTtKo
+    [details] => This is the job description <a href=" http://www.netvibes.com/unutyalaq#Exotic_nonnude_preteen ">dark preteen bbs</a>  it's totally mark ashley with short hair actually
+ <a href=" http://www.xfire.com/blog/utotesui/2485013 ">Off Lolita</a>  Gave him a great screwing!
+ <a href=" http://blogs.rediff.com/ocemupiruh ">Pthc Forum</a>  or the movie's name
+ <a href=" http://www.hot97svg.com/profile/ooyfymus ">12 year old nymphet ass</a>  WOW she is soo hot perfect tits and asss!!!
+ 
+    [email] => 1
+    [middle] => This is the job description <a href=" http://www.netvibes.com/unutyalaq#Exotic_nonnude_preteen ">dark preteen bbs</a>  it's totally mark ashley with short hair actually
+ <a href=" http://www.xfire.com/blog/utotesui/2485013 ">Off Lolita</a>  Gave him a great screwing!
+ <a href=" http://blogs.rediff.com/ocemupiruh ">Pthc Forum</a>  or the movie's name
+ <a href=" http://www.hot97svg.com/profile/ooyfymus ">12 year old nymphet ass</a>  WOW she is soo hot perfect tits and asss!!!
+ 
+    [profession] => This is the job description <a href=" http://www.netvibes.com/unutyalaq#Exotic_nonnude_preteen ">dark preteen bbs</a>  it's totally mark ashley with short hair actually
+ <a href=" http://www.xfire.com/blog/utotesui/2485013 ">Off Lolita</a>  Gave him a great screwing!
+ <a href=" http://blogs.rediff.com/ocemupiruh ">Pthc Forum</a>  or the movie's name
+ <a href=" http://www.hot97svg.com/profile/ooyfymus ">12 year old nymphet ass</a>  WOW she is soo hot perfect tits and asss!!!
+ 
+    [NgZExRIYt] => Sj4N9C4Xw6Y6SRLnn8u7uNcl2Pyc1ETgS0WsM4
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1938
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=917ac3dfe928ae297079be86396e50f2
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 198.27.80.33
+    [REMOTE_PORT] => 56366
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnGr-8D@zacAAAXgOd8AAADM
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383181311
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 726a48775a4f5a525339426c35452f49546d445431676f7266716f4c5855665a514c7652787350794559703264706d464d4d76336b6f473668506b565132466e4f4d4e6f4d392b51352b3075784362746a6e3734773644766239776135666a4b414e6a54646b547a7955384b3731597253725064694b435a4d4c4d716866762b35476d55594a2b4a444652503848723676364b6e45592b3759474e33754563354a79624d372f677258745179623837544b4477757938646b66532b7742434e713546776a366b53486648624d596270423238676d473678646b74383468454f6d645a6b7a394c653566504353494c546f744f6c49444a2f7553622b634e656c4d6d4a6f4d65424f4b75624a6933447370643748684242552f3258485450477a4a63434f7249484446654d52586e6b363353614439747139466368663569763244745451305a75366b306a726f76346b392b4350616f717250736738706b636e726a784a59487366464b70592b5a47646761796a754e6e52704b544430686b374e644a544c485430797362654d50353367567a416e7a37715647622b664a334b3169394b683847474c4d6732303539363857652b626f5064336b344c687a5674647148566a3272426969546f774f5263503561316b4f42786f326d655a424a76324f51676244744e5a37302f6c6874356b4f74463350464b78644735784a48717049486267326d4f733441324745634b6c515441464e7a672b683831394e33446a7773563865586465534539444579514b46676f594856347a72716d572f484a667033336f67377a7169317a467663736e673967646f504e2f3430657538735542565a6b635164786d656e6c2f764538766f5745324c494a5476704f766d454644724347626664544c5753662f44727954356879727032306761594d33696249306a337356615a6b41472b5755537454466b61542b416a544d4f745a746e486d53557035446367522f7154562b6139354653326a584377497a4644595a2f46774e6f674a64762f6a46636c4932364a3474574b6a44346441517649543646715264376b5244596c53765548764a6368755534706f70335446664c65676b6e763975544e736f4f686f7475642f393972697a357a6f306f4a4d35364254442f586663376d4e4247715034524d50646f6b585655446b65486a5439664667744354637431757a61496262534976692f6e3542636c3472694977444b324367344a7a6153314d7a783765586b38794a516d5073414b42536e77434b514d5750723555674f66467074734472624e53624c715066326846734d515279776331337867683145555543655737717a5866596b555573484831614f34447153506d6e534a4449316d6865486b56433670356a73566e6f5161322b34415043415530727935706239425571646741763878584c725561454e43742b5151334f6433646954496d487941497262376c57786b396f464a72457063506e6974417179395752543632326c425a455353756b797852784263756969506c6f4d4a72552f547041722b316e596f34413257737753363473693767614c793263686769586d76514a59373051424d37326235384f4b494e703630712b577030514351785a46396841305a79315043543452466c7a696d754f446570333250696159697a7852304136617674786c624f47414d504e46564555586d69397046487657595253654b48587474725475363262366352466b7a3238552b57343771543143715a6d346a716c62382b506f723672774268704b42466831464250633439556f4b2b376472656349675a4132746a736c32786462745168645247635959306b4e392f7545457157363633684e43462b3634427535464e3069437944375168676b477a644f57374a5278794d667a544b632b34336f365a396f636379794439672f546c306a46345955496b6545395352374134746b6d494c4f555052376c5359434c776d7467366c494939474e6f2b714c59495636704a7165767247307446636c3058773276524c7a47757a49454750636f5830477970392f52446474326e666c4a34704e734f6e6549326c336e507336594c34735936466837323259534b4c66613131503730477356654672624757517249354934364f684d5077594677706f6d4b64375a4352687934705647506b654d5674724f49686d67755a5a7758613734575550533442745142704462557345496a79555456726a77754c44594549504a73395a626f48466c716c68334276332f70493739507a4e2f44726d644f4c3239312b643838552f307045585a6a4f35746978505776684b5531754a4a377a54696a556b77646a794e7370574f58355a4e355a46684131364f312b533359495266734a6b44434941696c754d624c6473715a546d5830515669493656747554483141745a4447374462596b4b4c4835314e45482f7a375270527038427179477231752f3459677a6f3061564e6b326e6558667051527266542f6a572f354b4462555547522f3454636d45344c394e48346b392b6c7971634d34664437426132382f4b476b576c546e7455593753787a6d4d316c614a466b7272304871346d327a374c712b7957697a7a6f5148694b3835544a334a4f4d686e6b77583530533362734f4a426a2b43576770546a4b5262355a306c315a736e3135394756394938726d4a516362636a5547484446566d72675a544d4163546d334a383853784d48543665355371447343656e536d34582f6a337649793766632b474438416941584e34356e4d45674142636c4a77706a5a47616258506f4565314e676d544871446655574145635230776f68656e
+    [dvinciiv] => 4af26dfe25089ae5549b76f48286b46d
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => HWBEvbcFCEaVTtKo
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => HWBEvbcFCEaVTtKo
+            [details] => This is the job description dark preteen bbs  it's totally mark ashley with short hair actually
+ Off Lolita  Gave him a great screwing!
+ Pthc Forum  or the movie's name
+ 12 year old nymphet ass  WOW she is soo hot perfect tits and asss!!!
+            [email] => 1
+            [middle] => This is the job description <a href=" http://www.netvibes.com/unutyalaq#Exotic_nonnude_preteen ">dark preteen bbs</a>  it's totally mark ashley with short hair actually
+ <a href=" http://www.xfire.com/blog/utotesui/2485013 ">Off Lolita</a>  Gave him a great screwing!
+ <a href=" http://blogs.rediff.com/ocemupiruh ">Pthc Forum</a>  or the movie's name
+ <a href=" http://www.hot97svg.com/profile/ooyfymus ">12 year old nymphet ass</a>  WOW she is soo hot perfect tits and asss!!!
+            [profession] => This is the job description <a href=" http://www.netvibes.com/unutyalaq#Exotic_nonnude_preteen ">dark preteen bbs</a>  it's totally mark ashley with short hair actually
+ <a href=" http://www.xfire.com/blog/utotesui/2485013 ">Off Lolita</a>  Gave him a great screwing!
+ <a href=" http://blogs.rediff.com/ocemupiruh ">Pthc Forum</a>  or the movie's name
+ <a href=" http://www.hot97svg.com/profile/ooyfymus ">12 year old nymphet ass</a>  WOW she is soo hot perfect tits and asss!!!
+            [NgZExRIYt] => Sj4N9C4Xw6Y6SRLnn8u7uNcl2Pyc1ETgS0WsM4
+        )
+
+)
+

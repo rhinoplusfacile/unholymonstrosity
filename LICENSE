@@ -1,24 +1,13 @@
-This is free and unencumbered software released into the public domain.
+=== RPF PUBLIC LICENSE ===
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+I don't believe in legalese or long contracts:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1) I make no warranty of any kind about whether or not anything in here works, is secure, won't break into your house and wreck up the place, etc.  For all you know, every line of code in here will steal your credit card information.  But since you can read every line of code in here, you ought to be able to make up your mind whether or not you want to use it.
+2) You can take anything in here you like and use it however you like, and I can't later on change my mind and sue you for infringing my intellectual property.  I mean it.  You can copy and paste my code into a homework assignment for CS103, take the whole repo and sell it to a rich sheik for a diamond the size of your head, whatever you want.
+3) However, you can't patent/copyright the code yourself and then try to sue me/anyone else who's used "your" code.  This isn't "copyleft," it's "usage rights."  I hereby grant unlimited usage rights without possibility of revocation to the public, but I retain ownership for the sole purpose of maintaining free usage by any and all comers.  It's a subtle point.
+4) If you use something, let me know.  It makes one feel good to have produced something useful.  I'd be touched if you gave me credit somewhere, but that's absolutely not necessary.
+5) If you take something and improve it, consider giving it back to the community. Note that I don't mean that you should, if you use one class from here for a program with 700 classes, make the whole thing open-source. I mean, hey, that'd be nice, but I'm just saying that if you find a way to make the one class of mine that you used better, maybe push it back up here.
+6) No complaining.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <http://unlicense.org>
+RPF 2013
+All rights reversed; reprint what you like.

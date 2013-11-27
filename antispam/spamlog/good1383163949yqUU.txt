@@ -1,0 +1,96 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => pVenjeDhkchVWgraj
+    [details] => How many are there in a book? <a href=" http://users5.nofeehost.com/cubygubafyj/Models-blue-teens.html ">evergreen model airplanes</a>  love the way she twitches when he puts his tongue on her asshole
+ <a href=" http://www.epractice.eu/en/people/169491/professional ">pre teen shemale</a>  awesome body on that chick
+ <a href=" http://www.slipnsliderecords.net/profile/Drippingwetteenporn ">black teens porn</a>  Holy shit, she's amazing!
+ <a href=" http://community.momlogic.com/profile/fabasesyge ">children sex stories</a>  haha that is adam :p!
+ 
+    [phone] => How many are there in a book? <a href=" http://users5.nofeehost.com/cubygubafyj/Models-blue-teens.html ">evergreen model airplanes</a>  love the way she twitches when he puts his tongue on her asshole
+ <a href=" http://www.epractice.eu/en/people/169491/professional ">pre teen shemale</a>  awesome body on that chick
+ <a href=" http://www.slipnsliderecords.net/profile/Drippingwetteenporn ">black teens porn</a>  Holy shit, she's amazing!
+ <a href=" http://community.momlogic.com/profile/fabasesyge ">children sex stories</a>  haha that is adam :p!
+ 
+    [question] => Monday
+    [commentary] => Undecided
+    [zwBUIeyIv] => TtQVkiauTLT2AYnF0xWjrxmTXLXPEy
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1515
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=4676afcb62fbc8ab1c54268b506faf26; PHPSESSID=4676afcb62fbc8ab1c54268b506faf26; PHPSESSID=4676afcb62fbc8ab1c54268b506faf26; PHPSESSID=4676afcb62fbc8ab1c54268b506faf26
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [HTTP_VIA] => 1.0 PROXY
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 190.205.211.107
+    [REMOTE_PORT] => 57642
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.0
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnFoLMD@zacAAG1TIesAAAAX
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383163949
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 37666f6a54356650344d772f763955494e6658786f6b4f4e596a69667a744a794865702f4f5938497368573855786848714b777675504c66534849614d736b7a534531623433663877433536582b572f5951673571792f52323743454a384137416b2f5356724d777850446d655272766c51416f6f69517a636834304f34736148643974336647797472372b536245764b6e6153687976456f32587a7943414f7633734f6838726b4869446b575942416f684370567951357050545a4943394a4172507331764f44717450327a6d6c6e4a4b6b666b324b65556d3771584e3576634130743568706a35364e78417545376d6f6d7671322b6369794b676578627a6c4f7179656a446b657643732b543357735139372f5066362b504a3432454141582b5630336650636a6c6c47754241534f3173322f3366655569324c7a513769317142464d5942306d534e3068525a666d62564c706648706a524a61414370772b536d62394c53634868663538663931736e5776535775424c50445a7233747a7763674b61482f62447a366b533442565457774e3652764e44366a4d3074766a67775a336e627058567a57656b632f625152702f7167546c71486e35664c3778783438314e72556e69723041364b5463436e464a48394c366f7443344e5954794675534b58426676614d626a6d483076344453792b345a4145354c392f6856526c685338457370597530476635536b55306765794f624c41586a335a4e31592b694447477638563344487945474f2f35564f57322b5037596234705969496771424b73464e30474d3078345865507a394a62746a572b374474726b47546362665a30615639794e4e5861615a6e48312b6b69682b6a7956666c66512b65564a746a656e576e50506a7a51767154584d4c6f556874645132415671737a786b755066684b766c59746d2b396136705a6b6d6e627961632f57735433413233675447453972472b626f4d43756c6a434b55552f373469496e4256307472746d4973385949346744774c364b4752397667795838754d6d666b7073764b43445232575a6a4f35787a383472523872583651784e697a476f317753596b5a4e6f4171396742553666544a79667779734d397275793370717150756e4537315948587747756857422b6f4b5037746e4577745754776e376a787573417a4444444c6e48617957745747727374594f6d3361717a4a6d51696d6b302b6a4a4670343575537a354c50434b776731314a7772396a2f525234703155424e546b434e43396b3076792b6b46467a74737747514c65674b763267375574697863684a44487456775169566f7961302b5a4f584d304f4d5878415a69496f706c3043592b636e41763936426144354e495447676a7a367a754e77726c69584d734a4548795044654761694849324337414c6a30467030706c74646368573547526c6b49316a655031396e69393434364b4a4a4a794c54575a7536736d314151772f41647a30726b6737424177306564597642547a637961444c7471754f4944445875473462713758724f46583350364c362f78456d67427a615850314f756f56786e5a755242613035656b3767356944666b4e6f52766a2b386438427a396c59577a34583165755146582f4570316e79704f306e387855412b37434a456c432b507a54415377514a48305771664a3752376a6b33307935434d574544536e6356686271534f66364263793250326b324979325168585859745864572f4557676a4f2b796f2b6661324f6d61674b2f2f5a4b73782f7975753453613944332f4e4e64716a6d675a5966474864345432456f3746466a57334839346348504b5864477451687a634c47787838743772353935487869744e4a565447534b636f4b7632644e58683665686d57674c6a595278654a5378386d7357452b393375377442555555644966647a33766d4e584843626a396a6c4f74763979697670634c717765342f77493776794e615a3573744965686c674730576c56786f6b4755326f2b61702b486455564e48663667344633724c4f69394b394646616c486b3969793054424768435a63456c6c39706e44516d716c6d3741702f706f4d6d7950365675534233563451783371515264324e574765434954414a562f6f3567632f317857786c5849334a35565547474f6c4266314844366f38566254774b2f513058756649487a4c616e32686337474678576f316c744d6a7a69306f5574697662525a615455727338516d386b4e4c4c67764b2f49504e716e7a4c6e3458644e64754b4337733163675a3532557363566c465850795756637959745542367245493142356f66594d4d427a6a414f55446a463553757576654142772f6c68756e5475746244344c4437722b4b42433254492f52796f436b637a5962396d697a33694c43423359546a596b66686c68383370764c7049473641667333355342524e3531536d6753417141414a52724d426f317342737061385045334332376d704346424e704a4d5243307263566565547438626e345946744b542b66683432687a6e5952595032745a597a63626857316a4c736264776c4a4d543352484c72545a2b77696e78674e416c334e6c6f4d34454251326f587a3055465534462f32616f64513554626b6a756d4d446d364b4b4f36795835644667375231575746762f485637624b746c6579755866454f6535424d4f7a314d6f716f506c4b55344e4e4651746d504735632f336e6c634675382f686a70766869572f564e534878766e61557564625744736c76532b56455762315258614c776b4a78504752372f333465686c71544f53372f522f6b742b7162734e656d7130355a65473861647739327175442b77773d3d
+    [dvinciiv] => eadc076b7df4c2a531d112458f60f4e4
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => pVenjeDhkchVWgraj
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => pVenjeDhkchVWgraj
+            [details] => How many are there in a book? evergreen model airplanes  love the way she twitches when he puts his tongue on her asshole
+ pre teen shemale  awesome body on that chick
+ black teens porn  Holy shit, she's amazing!
+ children sex stories  haha that is adam :p!
+            [phone] => How many are there in a book? <a href=" http://users5.nofeehost.com/cubygubafyj/Models-blue-teens.html ">evergreen model airplanes</a>  love the way she twitches when he puts his tongue on her asshole
+ <a href=" http://www.epractice.eu/en/people/169491/professional ">pre teen shemale</a>  awesome body on that chick
+ <a href=" http://www.slipnsliderecords.net/profile/Drippingwetteenporn ">black teens porn</a>  Holy shit, she's amazing!
+ <a href=" http://community.momlogic.com/profile/fabasesyge ">children sex stories</a>  haha that is adam :p!
+            [question] => Monday
+            [commentary] => Undecided
+            [zwBUIeyIv] => TtQVkiauTLT2AYnF0xWjrxmTXLXPEy
+        )
+
+)
+

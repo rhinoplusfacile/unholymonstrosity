@@ -1,0 +1,101 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => gKWcFgLwgtkVQhvhXk
+    [details] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+ 
+    [email] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+ 
+    [year] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+ 
+    [day] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+ 
+    [ZDxIVmnvHUK] => A4cZ7NgiAviOtNqU4K7012C7co5yZ1DhW0nZFBozaVr
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1949
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=b33e0a9f8c346af07729911ae419a031
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 93.115.94.85
+    [REMOTE_PORT] => 42491
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnIhycD@zacAAFqsQNwAAACO
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383211465
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 5042355a707365482b355669792b7037796175564a752f36436a304938686444634d5753656175644253374d2b6e4b77714b52532b4c552b2b76304a497162366248377073777178593169662b78414e43316964796c6c374d35466c664635565a6f637a5668412f2f75325933476d797849332b55705248676d4f48796b7430786d586968467632794d696a344e345030505a376d58485250306552474372512f6c566a392f38353534324335746c524d7a4d6a574955306577476b55715a633851536339433069496248695649744a5557627368364747316d327539536b7142736f416d2b6f756f77334644334732455237326f4c485642674c374e5639527078535671686845774446392f2f4b332b437856764979796e725762705066426c517350714f6c77364a6f6a6851594b63767543526d304b796139563274507666636c363174664f4e3643464c444d704d30686c78375568776645757747565062754146524450332f72552b5959764e4e317a6142644b534d52317a646d545349732f50646470732b7750356d2b6370764c32324e4c4250527842346163315551693035396c735a4d4f44446658785a4632487970764b65314d36517545682f2f6f4768684f47523654696746564f302b7a6e65536c72364b627056422b39786442376d79586c616a47495758573650706176792f695539724533734665633771763155684c4963376d546a6159562f4d5745776c4e6853597066424a423046757559414143797637327433414730496d4a484a76712b733156582b7065336d755a5349536e48626948545533714952534a6b2b4f4a723165463634566a4b6b65714c5868774757467946546f704c78446f746c566457374e4274486f4e766b623167376e4a46304f49325963574366785565426e6a685259332b4e716a64394a65724c725071582b736d32424a456d3450666146456f65695246426b746b4e6572747a696d74657758546c553147726a6677696653352b30426d4d45613731782b4b6b496e674c393773515a576449444a4a5038483737734769305069676e31417537676f7131504f2f774133533163457a71563057386c6d5a617a336f3479457a4e57376578546e64392b4e4d716e7764776444724e735841726d634a31585868542f5667534f33456762694e454f4a4b72726d3132656c72363056467945794547704f6a345045686e734c436c537074616a4a56734749474931564e776b563266594f64494945324566423142433243644f4c3379466d2b45536d72444b57704252714a6555535a6c78655173707531796c4e313965614f336a6e4c4f42374c68306e77466749642b706e484b3766554354544170317630522f69772f76316956414766675239397669324e566f464d784b70624c6f4a6b484d7765584d646b4c664c6c6474725544586e69342f4657356b4c3476366e6a34676e4b5149634e5373435875376346646169627534384d4e5977776769555830487866526c3072646a6970502f5478326f645a61435564412b67682b6b77686946713272454d2b7632377052744a72487864772f53766c437365764e77597036424364354c6a742b6c472f342b74336f704f6447345178704e7574673867764d74446c36656a37682b4d7761794e4759484166334d464e513262636b4a6d782f6d445874384c417a7a526641627a516e483971427343324c66324c3231756536376b76304379624e6743636544506b54466f7a6f4531355471503541512f5a48465751423934735868436e33724d52452f487562493974587654543638713462487656456e797243504f572b5a74766363734476316546684549754d4d494e7257663978375341494276714c7a414f676b6363684d434556304259683962675736454e30485742626b4b4c374571465a4c51412f596e6c4457546446774f7638314a724965762f735174705a6d4f30325a303551614f4e784e7352714250363879474b4f426b6f734b64535047396863754c2b4444636e6b776f70502b6e6c7764613068737365714875636f39704e5a57644871433744394e2b4f306642533368755674586e586a33775a596d4a4d3069396f6f5a4f374561646e5958467465693274424c625a45684a3845594d4c50534f30686568464a643664445545305244737037594d504a4c55566c726a65337837522f6c456644513058766a6a2b5567336a51504e53423878787942466d2f7737476e666a504d6a4b4355484979337542474b63552f4838765573357630725650574a73664d756e366b3374724a5755563247667434507332764e486977446b59394f32496c3645514d6b65522b6a376e564a782f677369484461574a494f53765457365373487666494f6366584f6b714f6a3637354c48305831344f306a65416f432f54757970364f4e59706c2b59546e7a436f7268724c426e443632646b6b4e6865486b554b6a654247366355442b55484f686d694d4c53514966746777617062776971712b5a59524574644d38597475755536715952324e4c35782b71556779344730596e4c664e65364f632f3737357531386d566641446d66515177632b77755453534b324c797730435071497847514c724e7877586a5261366a6a2f46516338357553414351333738485277652f6a484d31617a787764736f4e48514f786c58586e35772f736b4d45306d672f563959586b61523569444e6a48342b4157653538386f7234704e693549735a43563433777a594469363461684434664f7079736471714437414c3556482b314a7a305a73337a7561526f314954484e6979317265737344475a63703775744f7674
+    [dvinciiv] => 452bda0f27dec26a042c4f5e6ebe87f0
+    [markForm] => Array
+        (
+        )
+
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => gKWcFgLwgtkVQhvhXk
+            [details] => I'm a partner in  jada fire and julia  DEUSCTHLAND! xD
+ naked young french lolitas  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ Pre Teens Pantyhose  Faye AND porn hotties.. Lucky fucker is right!
+            [email] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+            [year] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+            [day] => I'm a partner in  <a href=" http://ymiqyhubacyu.yolasite.com ">jada fire and julia</a>  DEUSCTHLAND! xD
+ <a href=" http://bofupioo.webng.com ">naked young french lolitas</a>  I love the way natural tits bounce, any ladies out there with some natural beauties?
+ <a href=" http://ykepeih.jigsy.com ">Pre Teens Pantyhose</a>  Faye AND porn hotties.. Lucky fucker is right!
+            [ZDxIVmnvHUK] => A4cZ7NgiAviOtNqU4K7012C7co5yZ1DhW0nZFBozaVr
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => gKWcFgLwgtkVQhvhXk
+    [spambot_recovery_description] => 
+)
+

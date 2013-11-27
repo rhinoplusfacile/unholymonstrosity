@@ -1,0 +1,102 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 4
+    [title] => IjIdRuNASEfBeFItz
+    [details] => I'm about to run out of credit <a href=" http://www.netvibes.com/ylojusa#Pre_Teen_Porno ">Pre Teen Porno</a>  I arely touched myself and came because this was just.....uhhgg
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6158095 ">child nude pics lolita</a>  this made me cum so hard!!
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6155888 ">nn young models galleries</a>  Great tits and ass.  Nice cock.
+ <a href=" http://www.metroflog.com/onougugic/profile ">nude lolas preteens sites</a>  Huge cock - RESPECT
+ 
+    [fullname] => I'm about to run out of credit <a href=" http://www.netvibes.com/ylojusa#Pre_Teen_Porno ">Pre Teen Porno</a>  I arely touched myself and came because this was just.....uhhgg
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6158095 ">child nude pics lolita</a>  this made me cum so hard!!
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6155888 ">nn young models galleries</a>  Great tits and ass.  Nice cock.
+ <a href=" http://www.metroflog.com/onougugic/profile ">nude lolas preteens sites</a>  Huge cock - RESPECT
+ 
+    [phone] => 2
+    [email] => I'm about to run out of credit <a href=" http://www.netvibes.com/ylojusa#Pre_Teen_Porno ">Pre Teen Porno</a>  I arely touched myself and came because this was just.....uhhgg
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6158095 ">child nude pics lolita</a>  this made me cum so hard!!
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6155888 ">nn young models galleries</a>  Great tits and ass.  Nice cock.
+ <a href=" http://www.metroflog.com/onougugic/profile ">nude lolas preteens sites</a>  Huge cock - RESPECT
+ 
+    [HGscpTyLZJOFRJyF] => GIgo5dHEty9VhRLIpZvfEU44us0dTnb7Qq3TGSH5
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 2101
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=fa2eacc675f7c505830ad62e241f4f8e
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 93.115.94.85
+    [REMOTE_PORT] => 46470
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnKM3MD@zacAAByRX4QAAAAW
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383238876
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 63776670377333636b743248653371456b75414f7061477446645a48656e69694d4f366b6f6a3046596f6d7576366e314c5546364e4a394b394b3967535649543256617367714d47715575472b656a37547644566656733761447a314d6361366548365a58314a467041714b43766c39784362734f7a5662304d49343473534564336e52484f6335386a4e576a37396c434e384e6d6b3669454c7039754f4d596c766a6b55784e706a7636486d676d556f48444f544769472b5464316a436535586c64476254474c42306879492f546a492b576c384569697a753562673567396f545538656732784355705265693244503066464c386a44726a6f7149476946414670646e59396d4b56375362624e372f6737694b335150707a3564507a416b3861436a636e344b7368707650615a336e56556450685478727932392b50626855424f59413876362b4b6563637667646175384332547359386461466837534569504b304774436f3867632f344a4c364b4f5948555a7043477a6d3976583871754350414c316965384774655a4a484f73332b4f6c7034754b49525a46576775642f32554c7345544869524a466944314c7a6173423173504d3434516b52797a78654b6f5761585839705832384e457978555a6a512f63325832314e7932334a4e62704c6965415372756a78675654465170396649466464676e69397755384d364a70544139514a7a4b4e3153703436656858624d77324778457832504c694863427971532b4274786a525130384377446e4c32414f327249586b5a4d526c62393768544f756b394f6b64472b53722b465a306c3554736a6430303352727677776a34487a516d497267644e65345067633836576e66345650676d493656567537593459624c4f3669346d564a4f51347941766a71655457585a4b665579754e662b5a326e67796e5959727974626d55546c66705257777170642b2b6f4847594d65642f6d4b556f477049776b7a3351325550546a4c3333634a4c52474c4578443359384759722f377235586d765033453333414b66316b597243744b4e587a636d4c726d322b584d6c762b2b6a74317431324a6a556f36334138704553336c6272384d5a5658646353576f6339615467515a2b48575438336d37676456706a5a374d634a7533667a374a3431735a724e503776335a6268616d44736741645a55755a7a387a3743784e58426d623534686c7234354445547446647373534d373438596e77483156726a7936537a756a4c556c326b546464363639762b586a2b4977615244477366466d30506d394c6c45574a786263442b4c4e4b2b776279383735537643772b635a5938482b743731577a776d52757532317236756c486e5758676b4735656935796b58566f384b732f3277442b5837756270302f4f4136363333774641433850465656394d42706c4b437564746a7857782b4764744d6f4b63524c59394676374a302f6c2b6c61653567784c7864466e59662f48665347454e586759344e53474d2f69694d617a316b515a334244697852546579716661614e4276483866525767316a7763365a4973446b3054477932347735715a51514e6c65726f654b486a51716f6931593433576b4e42325358475a435643476278476e3143466b687a58587963466a6b71527273306e65713244373859555a355571467633365137575235307a4966656e4b555154454549396b697a557048416b666f674d594d704d6f74703757626a5a6b35634d7936437074514237344e6c626a6245667958775a7867794c497579797078756677356e522b774c69725963635a324949632b716358636a343655364c6b4150736a6572515457555372526d483473764344596a513471494d6b38414469424f446e44346a30394b662f425451643130722b745835313351696261374e4b526268776a512f456558455161657579746a344e394e65335a47454e5779344d5473524472335463764e666c73584f68424c694a754f355561517332474d55595353496362706576426a6f6f7a746874374f3569326c6d444656596267704a46546a516e746973346c64545067342b52736d65346f7a4249745935527a76387279624c474f6174527772384f69676a65753267307359384274506778332f4e79686a6d766e3463697032534e5a4b78704d586e376546594246724f566b345167456f79624a4252676c474b6a71317276447866336259784a666d434645517355714e4248354e30516d4b5275534e514e517130337467462b41463366306f434734786b6b6a6d626c6952496b42744e436f6a366237684b517a322b446a43686a596c7531316c3630364b55593052766b6a5142326f372b686d4530766735333153346938463144396a65746b6b6847492f5a7a36384c494a5176546c46766541424273436c5078546c6b4b4e524a77487a354d507254416964377064415a59636d747166703163724b5350777a37344b6735367161664b4c72325165354230376935657a76396136415254686c6e6952484f424d4a635162613030655338586b2b5653547a65482f3377465078336e4356614471647a654578707070432f697a5a5759717549556b6941354b73546b7143776445704c474231525a44467a713636734b47724735637957754a4c4b71326859633568736b7174434c74536d534f73487956364b5a66737a6649714262645545354f634334556d4e6e3478736a44794e5962554134632f6d435257344e4c37455474784a676355346c724861704354714d51353876584c5369767a504f587145444c4d6b422f45487651656f6b7878577a30737570516c4a777954376f70393167626c6d75556f542f6842657373794e5a4e61673d3d
+    [dvinciiv] => 8ebbf1ce4fbe3e43303aa05aa7f0252e
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 4
+    [spambot_recovery_title] => IjIdRuNASEfBeFItz
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 4
+            [title] => IjIdRuNASEfBeFItz
+            [details] => I'm about to run out of credit Pre Teen Porno  I arely touched myself and came because this was just.....uhhgg
+ child nude pics lolita  this made me cum so hard!!
+ nn young models galleries  Great tits and ass.  Nice cock.
+ nude lolas preteens sites  Huge cock - RESPECT
+            [fullname] => I'm about to run out of credit <a href=" http://www.netvibes.com/ylojusa#Pre_Teen_Porno ">Pre Teen Porno</a>  I arely touched myself and came because this was just.....uhhgg
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6158095 ">child nude pics lolita</a>  this made me cum so hard!!
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6155888 ">nn young models galleries</a>  Great tits and ass.  Nice cock.
+ <a href=" http://www.metroflog.com/onougugic/profile ">nude lolas preteens sites</a>  Huge cock - RESPECT
+            [phone] => 2
+            [email] => I'm about to run out of credit <a href=" http://www.netvibes.com/ylojusa#Pre_Teen_Porno ">Pre Teen Porno</a>  I arely touched myself and came because this was just.....uhhgg
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6158095 ">child nude pics lolita</a>  this made me cum so hard!!
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6155888 ">nn young models galleries</a>  Great tits and ass.  Nice cock.
+ <a href=" http://www.metroflog.com/onougugic/profile ">nude lolas preteens sites</a>  Huge cock - RESPECT
+            [HGscpTyLZJOFRJyF] => GIgo5dHEty9VhRLIpZvfEU44us0dTnb7Qq3TGSH5
+        )
+
+)
+

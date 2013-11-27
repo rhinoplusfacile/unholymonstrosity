@@ -1,0 +1,96 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 3
+    [title] => oKatBRNtErbZ
+    [details] => What qualifications have you got? <a href=" http://www.datpiff.com/profile/egunugub ">youngest 14 pussy</a>  It gives going bush a new meaning!
+ <a href=" http://luhihiubo.pbworks.com/w/page/40186897/FrontPage ">Pedo Kids</a>  she is fucking sexy, i want that girl so badly lol
+ <a href=" http://www.epractice.eu/en/people/181528/professional ">birth records for julia ann warner</a>  She is gorgeous, can't beat a bit of pak!
+ 
+    [firstname] => What qualifications have you got? <a href=" http://www.datpiff.com/profile/egunugub ">youngest 14 pussy</a>  It gives going bush a new meaning!
+ <a href=" http://luhihiubo.pbworks.com/w/page/40186897/FrontPage ">Pedo Kids</a>  she is fucking sexy, i want that girl so badly lol
+ <a href=" http://www.epractice.eu/en/people/181528/professional ">birth records for julia ann warner</a>  She is gorgeous, can't beat a bit of pak!
+ 
+    [commentary] => What qualifications have you got? <a href=" http://www.datpiff.com/profile/egunugub ">youngest 14 pussy</a>  It gives going bush a new meaning!
+ <a href=" http://luhihiubo.pbworks.com/w/page/40186897/FrontPage ">Pedo Kids</a>  she is fucking sexy, i want that girl so badly lol
+ <a href=" http://www.epractice.eu/en/people/181528/professional ">birth records for julia ann warner</a>  She is gorgeous, can't beat a bit of pak!
+ 
+    [year] => 2
+    [qHkFimg] => 6sXB2mujnV8gvdFzX5guUcYkEOH
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1725
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=5ae65edc820202d4063bd5d39b6e2e1e
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 46.105.114.75
+    [REMOTE_PORT] => 35975
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnFpycD@zacAAG1TLnIAAAAT
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383164361
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 6d2b754c633249794c6265325076696e716e4f5633626c37424d4d514e7a724d4c6b574d6c6f6c6d504e6f386b4d5457594b686a6c41486d747843557551554938624134643377384d4b4c6354665542554f5a4f7a2b35763344764669515530422b627263743451545a7949576c55556459626e5543327248573030707a6a7a302f4836464c4d44554f30376a58765666465430453038716746384846467a554d7068734977646b6678616c576630787a614445754a2b4a50547930705955464f65566f787a44467a377a566c2b366452717063723961364e4943566642326f58783061497077763674376e776b655a34592f6b4631445a744a51694b7a376461354f6b472b41446d41563342344251497972627641426b4753716541724768364a5468536d2b65676d645a684264554b505736365936754f5255374375697a6e47563130794c6c445a536a4e64706854586843494f4a645a6b3442444c534a3561756a485642307758436467776c796441645a30446b386d566c41496a4d4364715377674f47616546795a647979765a4d30333153786d62727233494a754563704e31304f4f67666b6c75447655484d6872376661776f4f7a724474787768744d732b3748672b6a6c2f4544726c324d4e3376344e46383864654b6b73734d6d3046776b4766625a572b3068706b507167386f49492b7161437179327043426c3642337435342f4b4d5356302b417863744161454e4d52587749776b2f534c4f556b724c644f506f50456354463867514850456e57674e2b7130504b2b54624973476c6c746f744b2f51636368324d512f494b616f50434d6b70594a7369716e4a564844584e564d522b36772b4a6e2b414346372b4e336f676863424a5051614862547859706f587863354d556549432b6375623331634b615571343445463867554a54796b4d7131396568532b6f5354654c64494654614149577265347039746e62344f6b70336578732b66736149672f336b485a4b4330696851543075336b6775387556746479614c786b6a4a4d4c4d4b4179506b3966694341683876454c745432734e326e3539716463757955433950716b656244414c335836447a62315379553450694e794e7471784a6e6d625633306c6a61785a75784c736e32532b502b79475844786f496d3771376f63314d44624a694172486e7178514f6c6a63716149546852384244756546422b35627558314842384b5330455667633173664d72424355636136304e6f3078784d6b597150454d4c2b6d50533572784a753151687376736e6f69555065755374434f30337a55504f6836546b75364274683178694842596d55695957524d747a494c6e70384e6a6e6d31304632304371476335585a7457486e71722f416c476c5477516f36643757714370634c6e774d69524a342f35312f4474553270752f2f705a785033753134353842616e2f727035414d506e577837504745415141447147564733616b654b3967375332456b396f555144425a4c4c4e71696d35527a63706b57707469445747385478302f6c454d6e323463576b38454b457935544c48635a6d5a686d63786864654658327177546c53556a545862716d45387459564f774e35364b3863417935445955394d324d7a46697959576a5148565277353064453071584b4e59394e516e6435756f5a6f6c6f76533451593335412f347a385453597678707a2f374267523666362f2f486a4c4170394856672f6243454a7779492f476b5734577a3069454a517a68643268466b572f624b514e335a38432f686933314f507334652b72734f7a397138376e4f35546559394b34586f73574453712f6535726c30505238503548795a475450783266764c2f456636776e395232356252497030355734496f3855623475546855306d526f585a4c77644638473653665951357664356e564d726966445455644f466b756362476a72416e484145306e69417570307345752f6b6e6263785768714b2b4d582b5463622b784d51454c2b6f572b6b59394c6b355930686e4b6b78554d656e495a62675761766867775465776f627561416951633568333771636261353652557379377974547234506f314730514466775958477a594e6644657047584f386c4773596b665a36742b494f4a374f443061395a59792b517162505776543332586e4b2f6e306942795252346b7a2f79497265526633702b326c316b56646a5071447531356261354a4f6b34714c53682f765856365a56762f436d6448634c46675959634f6a7a3848793559587566783167556f52527574556e51756a4736446d70493255644b52707972696d515071444346594443537a7338483275733775326d647768366e432f4e74544335633959444f7456416131486a4a4766576e6e514771324b632f32526470616938723930374a43724d6a6e38426a30732b387a766f4f5655765572364a2b4644616f4a497059785674444c586e4743623859714c75597a61387639335357546750726251495439523161767944375546685a77752f4c5a5851646b464268396e53434443354852716d617056675631522f36565a337544767959533974494132393358545257364e676f434c566470436149557779397554793878774e6b4c79787a43417a4f69696148315a374d4c7138624c676453537376584e43793753796c2f6d356d53366230614f566d4d4d39777066684d4a564e42624f654e70594d7272774e38596d38306e786a6d372b336e64455468324e73756e51654b31472b6d457431696270354c39784a736c707745766c33387248343d
+    [dvinciiv] => 431f0f39cf0cacafbec5f71c8d52eea5
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 3
+    [spambot_recovery_title] => oKatBRNtErbZ
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 3
+            [title] => oKatBRNtErbZ
+            [details] => What qualifications have you got? youngest 14 pussy  It gives going bush a new meaning!
+ Pedo Kids  she is fucking sexy, i want that girl so badly lol
+ birth records for julia ann warner  She is gorgeous, can't beat a bit of pak!
+            [firstname] => What qualifications have you got? <a href=" http://www.datpiff.com/profile/egunugub ">youngest 14 pussy</a>  It gives going bush a new meaning!
+ <a href=" http://luhihiubo.pbworks.com/w/page/40186897/FrontPage ">Pedo Kids</a>  she is fucking sexy, i want that girl so badly lol
+ <a href=" http://www.epractice.eu/en/people/181528/professional ">birth records for julia ann warner</a>  She is gorgeous, can't beat a bit of pak!
+            [commentary] => What qualifications have you got? <a href=" http://www.datpiff.com/profile/egunugub ">youngest 14 pussy</a>  It gives going bush a new meaning!
+ <a href=" http://luhihiubo.pbworks.com/w/page/40186897/FrontPage ">Pedo Kids</a>  she is fucking sexy, i want that girl so badly lol
+ <a href=" http://www.epractice.eu/en/people/181528/professional ">birth records for julia ann warner</a>  She is gorgeous, can't beat a bit of pak!
+            [year] => 2
+            [qHkFimg] => 6sXB2mujnV8gvdFzX5guUcYkEOH
+        )
+
+)
+

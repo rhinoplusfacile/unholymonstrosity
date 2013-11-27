@@ -1,0 +1,109 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 3
+    [title] => CmXvAhbiRrbOtGg
+    [details] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  Â´yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+ 
+    [phone] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  Â´yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+ 
+    [firstname] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  Â´yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+ 
+    [question] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  Â´yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+ 
+    [SobXJuHuVdkuUvIiqGT] => eO920p9gk5W75TOm6IHc62LTIO6hS5eZqj
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 2543
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=0c019911d8fc7da93d87e1e28c4d2afb
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 46.105.114.75
+    [REMOTE_PORT] => 49437
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnKi8MD@zacAABEXXqsAAACD
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383244528
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 39424536535a517746455274786c696e4b684b46773235316a73326d447a57714d77374d3163734673497768314e6a7574316c7073326c6c34652f684449776d523151446b643333376a6568323949463075752b372b703477677631324b386455623251587539663474707654577a62636e7933536d453438782f696148776c432f666b706b6d30417a2b484338644b3873794e713846372b346d6d4830754e786174543645645071502b744e757872386f7162484e61465a62725a464949554c536f4c50756b557a51492b4c593762525766326c384f497a78786832663679536b78336871696b31564b65505633476c5439725970597a4a786763596a68764d6a71654965687a6658682b5a414f55763646355265457931576e6f484869696363494d6457446b7175507144434c41467374317037724973563962314462484579782f6b386f797550574c756d306e614f4b6b6d6c355a735836494f624a69507032342b70554761794e66326f6853415653313758464e446c654c54504355514f45764a364467475154415a7371486c4635686a4552634c4f4739526e466e7837347661334b6779744e6d756553394d6b37687559357545376732582b54514e747954384e6b41546667572f692f734f57484d3151656c564e564b4133346e666363647344624155765430546c6c5a6135564a6567684b796a755759774173353172553171373636322b476944697a75796248666a473639515757397057436f4f4a347668323449305a737841425653767770662f333075727975326a714d50566142756b724459305677703769725969494b57426162796a594f5175556a4f6e47367a5a30382b62342b36776132336464396c326f31444b51332f426865635a4d497972715670773554636d7453426b47386e723330675779633577726b414a5a2f6e6e6c384b3136304669306d436154466678494462534930756c6151623134744e6d627637434f4e75427646795746785470334978794432474238684d664c6176316d4f7a796c594a2b435374476e6b357046496c69555450666e556b33537753547436447857636b7838393074583677677a585a433271456a416d6a52523948315a6771554f2f454671776f39487a2f485052683943537458565933384a6a6a337a31645361484938562b3378444351333776534151357631634e6d6c6a5936444c6f6a4779476530502b4f6c6d314d6b56335872625233316330775855723763674f4155505356756a6578653970397651316d544931593045674d2b316849642b35307568546f2f767136424348684f397a5357376343777743494e79444b6f744774332b707565434f6556526b6a3551696e385a366368514e575a76585958522b71565635675a54317650546958366f56775273562b425963306a74592b70794558743445586c6c4d31784c78326f5444454b6a392f6b4c39744239673936662f67447a71386b634c71444375656f7577712b73652b566f654c5261643353523470356263514c4854525246336136344e655665642f4531566736537035377a763173513578323771304a4475384b754f5636716f34334d51716274747a376a4b73314a37786c514a4a5067486d3367584a5039713367697a673674796d4968587572304737613557683067526a6b4c436d6978616a6233637a6a756846787a633653364e505453525539326d4d4947624854774b77524c51316f39416438647647524f71767973574b446e323758457169744832304b355a50336935387162695964754d74396d786f71427531582f79356d4f733361306858726351306c564976347245376d32684a2f67625a6e3175557469384152307252654b76502f3772553634384e4c45486e4f4474386569544d62376a306657636d313369324e3330746e5471694c704c367463447744656b6e75504c2f72426a3357627a6e50312f494c56427a656c4e52725466627a4d6f6f4c424f436a504d72342f2b682f4e79576a6f3330616c396537347176704e43756871626279786342556448584b6e7033495156386a6b634a6b6e2b7441457874794e765a306c37476b4538734f4a7a45367377553068373854396d577938457964642f2f5578526151732b324a4a494749676869306b70536a504a773846556a344c6a58785935423675627470642b38595074556d34694d485970486644784874416973387876345669654f6945783169636167534b6633666948585475366b2f656d51466871625749704e4c4a5659754a2b4679693477694b792b38344832644a41444e754135674d512f786b72646d384a424f71313149597374794b32434b3573762f592f7a2f736d59364c34387954653858426b76696c676b7054726a62774158646c696358716c344c4a547a364f653767483662483047764970374b54385a787775434d5379795265566541617176314669653143506f334f334968326e57676b52752f67797930664e54713363486248592f56675a4d396546596b3336564a5936687674346870303470706c43486958754550314e6459527a7046336b7a656b65425934315350446431364e4e364d416b6f422b744f78336b4d6e6e4e4441676e63432f7038595948623478367139467254456b35704c7a62586147354332555554393471442b32766d2f6b61535a713550414a483344476376314d394d517a32627430622f5065314d534f74425044543033557071533473576163743562535432616841366e48755735714831766b664b4f316254367876695376323749337964375239536b546f42676379694b794e2b35756e6b41483472615258503075742b
+    [dvinciiv] => d71b3c39ef65ae8f10075f666db09fe8
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 3
+    [spambot_recovery_title] => CmXvAhbiRrbOtGg
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 3
+            [title] => CmXvAhbiRrbOtGg
+            [details] => It's funny goodluck pre model naked  yiiaaah thank you very much for the video
+ Lolita Sites  What a beautiful girl! Great blowjob!
+ lolita panty model gallery  tht guy sucked.. girls messege me
+ Indian Models Bikinis  This so damn sexy,love this toy up my ass,sweetie!
+            [phone] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+            [firstname] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+            [question] => It's funny goodluck <a href=" http://blogs.rediff.com/dabubukif ">pre model naked</a>  yiiaaah thank you very much for the video
+ <a href=" http://blogs.rediff.com/lenoamyn ">Lolita Sites</a>  What a beautiful girl! Great blowjob!
+ <a href=" http://fautoolo.yolasite.com ">lolita panty model gallery</a>  tht guy sucked.. girls messege me
+ <a href=" http://www.metroflog.com/gagufajij/profile ">Indian Models Bikinis</a>  This so damn sexy,love this toy up my ass,sweetie!
+            [SobXJuHuVdkuUvIiqGT] => eO920p9gk5W75TOm6IHc62LTIO6hS5eZqj
+        )
+
+)
+

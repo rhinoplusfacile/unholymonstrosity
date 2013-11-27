@@ -1,0 +1,102 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 3
+    [title] => QcCmulBRJu
+    [details] => I came here to study <a href=" http://www.seriouseats.com/user/profile/mikiydugugoh ">Preteen Fuck</a>  Wow this really turns me on big time!
+ <a href=" http://kofuauiik.yolasite.com ">sara jay creampie xnxx</a>  So, so beautiful!
+ <a href=" http://www.seriouseats.com/user/profile/mediqurulubo ">lolita nymphet porn lists</a>  Lisa.. please come and be my teacher
+ <a href=" http://www.xfire.com/blog/kufykifusog/2495023 ">Ranchi Porn</a>  He must be a Armo!!
+ 
+    [day] => I came here to study <a href=" http://www.seriouseats.com/user/profile/mikiydugugoh ">Preteen Fuck</a>  Wow this really turns me on big time!
+ <a href=" http://kofuauiik.yolasite.com ">sara jay creampie xnxx</a>  So, so beautiful!
+ <a href=" http://www.seriouseats.com/user/profile/mediqurulubo ">lolita nymphet porn lists</a>  Lisa.. please come and be my teacher
+ <a href=" http://www.xfire.com/blog/kufykifusog/2495023 ">Ranchi Porn</a>  He must be a Armo!!
+ 
+    [middle] => I came here to study <a href=" http://www.seriouseats.com/user/profile/mikiydugugoh ">Preteen Fuck</a>  Wow this really turns me on big time!
+ <a href=" http://kofuauiik.yolasite.com ">sara jay creampie xnxx</a>  So, so beautiful!
+ <a href=" http://www.seriouseats.com/user/profile/mediqurulubo ">lolita nymphet porn lists</a>  Lisa.. please come and be my teacher
+ <a href=" http://www.xfire.com/blog/kufykifusog/2495023 ">Ranchi Porn</a>  He must be a Armo!!
+ 
+    [year] => 5
+    [HuRlBvcTvzbKYNtUsQI] => m3ukkh2dMbP1v1W9R2azkbjHPxa
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1881
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=95164ffb844e2b24ae26af426a9646e3
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 192.99.4.25
+    [REMOTE_PORT] => 57232
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnIynMD@zacAAFsFWAkAAADA
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383215772
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 52645530705554416e5675344d6d5230562f5268793736614a4234524b6776765674774e6c632f4a31557269746a3451636e695378574e4d736e574d583937474b49766a594e504b6678553657594a6366696448435a434d656634746151442b76633131634f643152644876736e597050486278365574466b56345859786c34347148316d4d5477584c3932505067627258623148784f2f752f6c5a535a5a376e70314676486878657747524a6b6a4f4e6c77552f5572746b345451636c74355a7859527265445a7462346b374d414e46746c4e387254334755504a6950465354556b5470566e47625a2f436d4d6b6973377275357478675666695741326b7a71617273373447767730335862516c37315655496c6c5a386d534257774b316837732b385a50317548584558686148307a3678306c5941593246675253506c332f69524e6456475434627154344a444e553948626247554b73306533504253744c654242773451557671674b6671585848696c32724f61455a4c73326a5961624c686e72486169347839504e4c41322b4838505742324a3361777532496e6831596d7675794f6d2f586346485857732b6258567149426557332f2b34414b4348755a4b6667685866362b5733393455394c5636625637786e4e594e4456527a484447426c4761696f706b45385546326d6238396a666f65655a48392b6834666d53763646785353514d6b3477544e52493367586e464c6335324a6444376839577937337034705a7a355149493261786c446a3739652b2b4d5064525262634e63536f4e63595172796c777a6c4e4d64624f7372316f3269437a435768324d57652b6e7949524a6a7369355661655a68506c78364f42534447776a5966675a6a7441655951495677377059384b716a7573423831445767523251384f4976433757775569567833794c436838575663354d33304b44474e683561317a3041514978583566695950786b376855775642535a39495173465477645931355771565349582f3253394344736975587677314f6a6c4652384c706e327a646d5049777a42305a46367374667443737a5076683277376144434d696d2b6c4d3471532f6b44554d523045385238777264306c4570574e6c704b584e49426d68313950705952734f3844315267753675766a336e4674303861337349766753466d745072464f317a6b352f2b305462472b4132447830346b47565247594f6a7446506c54416931352b6a647131637134596a57796543656a387654486e487150754c476b424451496c50746b2b786746533465654e326d365169695454486f5a6868674169726c6a536256356b69647173646b6e72724a594e3063647673367a487874345861665439743139316f5948672f4b47343442504e594c6f72482b6837456d384f6e32475463555a55416436525053746d646e6e6d392f717371736f6a7932327479754b7247323056704633326a4c7371483964464946504a50737933797549625369464e526b487a36626672454e4b68686c3474434e71617558466c6554484c30444e795758447152366d68752f44655132526b463678436b513730495850586c654b6337757a43356e497679436b54434f6f676864743743523065515348334c556434676f7a5170704e6255316f374e6f5556595a764e4444354d5a7864697558463450486d625a414f6949562f53616f442b6761544c7637544c6247494334506a2f4945494d4e556a6d7952397370477a4b70394c526c6a66356c74734a67747749644a31374731614f5a4b396b55346c416c4b305637566158526a5863673748704a39636557653479796d52643179394d7a5a4c3876432b4f71524453596e684b66457532426172716252336a525a374256566f76663059664f566e5a7566697842566d6d56454e55437733484b3158644e397938782b304c4648516c4b4451412b702f4756474b456c467a384a54714c733661594d4544754932796d2b6c744f7a4a36414f73357a5274504e4169546e6c6c4f74696c6c31573669324338444233527346357050685a676344394258767a2f6b78447852613179504f76714f6241763131496a676b7070747966784a6b4c347741756f4b785048437a5875734a6b445033325444506e4847374c5a50322b6d3243777874634f35593151613675776e6a5a6b7a78727a6a73386a7132424a427343645649526850654e4b586d356661726c496871763371644b3672484e4563365737687066635a756f364e6e4b656b374f797334507577385a31343530336756725a545a374958654a36365763665630684879624739336674515255302f524b615059454a65422b57654e513650612f5744516a5a44576253797148636956335a557a725933685047567538583855303441656c56696e61693451416549796b7467485651685655522b6f3073736a5938513144497639636d71642b4b6d554f687a61577065573734416b5661386f47514d4a694e5a7552392b595774526852496c7a554b497734642b5865535a436b6a77375a2b6d622b3146706f4b7375706c3069365846336c4534423174323348583969464b494963424b4f635a337175377867663933524f2b534e78436e31553365434252554a31614a5977576b613264436e467530486d702f35354b6e6c2f596b6c68686854547848682b316e656e6c5176753868782b6457745472656e56487463496c642f7367466d73384c414e514a4d52485a654155467a2b6937746352355a3849575172485645412b67544f70357979324e585839382f4478322f676c74677463796f534358593871557253573763686d336d707847684753523152596f3348477961766b54743451766e413d3d
+    [dvinciiv] => bd7487c658e4c24fb35f8cf0614ce037
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 3
+    [spambot_recovery_title] => QcCmulBRJu
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 3
+            [title] => QcCmulBRJu
+            [details] => I came here to study Preteen Fuck  Wow this really turns me on big time!
+ sara jay creampie xnxx  So, so beautiful!
+ lolita nymphet porn lists  Lisa.. please come and be my teacher
+ Ranchi Porn  He must be a Armo!!
+            [day] => I came here to study <a href=" http://www.seriouseats.com/user/profile/mikiydugugoh ">Preteen Fuck</a>  Wow this really turns me on big time!
+ <a href=" http://kofuauiik.yolasite.com ">sara jay creampie xnxx</a>  So, so beautiful!
+ <a href=" http://www.seriouseats.com/user/profile/mediqurulubo ">lolita nymphet porn lists</a>  Lisa.. please come and be my teacher
+ <a href=" http://www.xfire.com/blog/kufykifusog/2495023 ">Ranchi Porn</a>  He must be a Armo!!
+            [middle] => I came here to study <a href=" http://www.seriouseats.com/user/profile/mikiydugugoh ">Preteen Fuck</a>  Wow this really turns me on big time!
+ <a href=" http://kofuauiik.yolasite.com ">sara jay creampie xnxx</a>  So, so beautiful!
+ <a href=" http://www.seriouseats.com/user/profile/mediqurulubo ">lolita nymphet porn lists</a>  Lisa.. please come and be my teacher
+ <a href=" http://www.xfire.com/blog/kufykifusog/2495023 ">Ranchi Porn</a>  He must be a Armo!!
+            [year] => 5
+            [HuRlBvcTvzbKYNtUsQI] => m3ukkh2dMbP1v1W9R2azkbjHPxa
+        )
+
+)
+

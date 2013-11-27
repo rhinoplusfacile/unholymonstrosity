@@ -1,0 +1,94 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 4
+    [title] => VlSNGDRzGCzBQE
+    [details] => What's the interest rate on this account? <a href=" http://www.xfire.com/blog/afutofee/2490423 ">Very Very Young Loli Porn</a>  alexis love is fuckng sexy
+ <a href=" http://www.datpiff.com/profile/ynobobi ">top list pedo sites</a>  That chick looks very hot *omg*
+ <a href=" http://emahidukop.yolasite.com ">xhamster husband video cuck</a>  someone please tell me her name
+ 
+    [fullname] => What's the interest rate on this account? <a href=" http://www.xfire.com/blog/afutofee/2490423 ">Very Very Young Loli Porn</a>  alexis love is fuckng sexy
+ <a href=" http://www.datpiff.com/profile/ynobobi ">top list pedo sites</a>  That chick looks very hot *omg*
+ <a href=" http://emahidukop.yolasite.com ">xhamster husband video cuck</a>  someone please tell me her name
+ 
+    [day] => What's the interest rate on this account? <a href=" http://www.xfire.com/blog/afutofee/2490423 ">Very Very Young Loli Porn</a>  alexis love is fuckng sexy
+ <a href=" http://www.datpiff.com/profile/ynobobi ">top list pedo sites</a>  That chick looks very hot *omg*
+ <a href=" http://emahidukop.yolasite.com ">xhamster husband video cuck</a>  someone please tell me her name
+ 
+    [KSFsvZdcNHtNQvYcuyR] => hWvo6zdx6179FT8J695PbP8aEygLGg7PJ
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1526
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=c5dcc120021e60e12d55171e536e1064
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 93.115.94.85
+    [REMOTE_PORT] => 50940
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnHPDsD@zacAAB3QKhoAAAJT
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383190286
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 5054386f344f4b74797769694c4762696b766c39774a2f307075596d4c7472717276727955655a64425233736f2f617a652b4c4a542f6c6d397444374c47565948785877504a53694b315a55396154546549397966506a56706a6b6d454e395338306f4c4c6a786556645846416261535a425139545359374d58566b4f66574873677833324b6c4845504c5a6352706262347a71686a644771543250426336466d6f793231734b396d6d585768532f6b657363552b5144466d6d7a505a6a3737394e6f6c31662f6b4969356f7851763733634b7744766d36395974323049674658307362514d3867512f55466e6c4d7766454b455a39626b616e5433454574322b6444522f6e755174687a37335a35587577674778796b6d4634654d6d6971684352364b797a6555777149743849664c6d6c336c36526a6769684a4b41394b654c685a736a754b3035557a746d69434843556d38384c5667304165517674324c536f615a5439374d4243315579417169706a6f37416b72742b3668684a68694e427058635632654368566a54557239524d54454453364e306f4d714a6b356c68364678726d32707a6f6e35514c775853716361726d5879716a6c2b6c4c4b54785038616e6d50496f4b466c7a7449665871324f436f3430586e737146777543724976796c74676962706b63704157676b64475772577174334f34566b7a533549716b32415144314b6c4174736c74362f7743482b6c305a6845714f7551583064626f6d5a777a2b524e552f79704e3369783976394263474454613950504c544e6f2b6b475048477076516d7035777a6e427a6f696c5157536f6742414634303066344362447a46414238585978683564617a314f6c6d57317741494d70764e564f4c48624574376861637969444f4d314c48372b6b42646657386a6949705a70754e42684a784f4d746b5235704d4d624a2f58337142584834594e78302f5a2f5453695a6b5031727a483438566364523649316a6435776c4f767a66744f395a4362496a7771303150786335642f772b2b71712b644859326976512f71334c44303238564734424c6c5a47716f4b4379696f495747464736667a6f764c4e4235614d2b38644c5256666347724b6a6843507970477a4661394642514e2b656542737372514f6447623670524a4a4846706a45344c704a2b396b33645843744b2f70586d375077547557445645765a334f6c517943482f52324d62386945726a2f596f7678587a517a5a4d5374446b794d655a646f694e427456635347576e537a7145584435375051656f6158314d554c756f7a2b4370315135394b482f5337464e574f34637835686c50734d50344c3169466742755032644b757a4b49376c573970484d6263706d7736496c2f32656c7a384e642b315a39416946784f33616b37694d357a4954343773694158653559385651755455426576784d63715573486775436a516842554b357558534d486d6d6a7361615465426f4d62693752505939416a712f4c5144595556313358765539754c38336b6651775337484641586e6879306a3337544f4d4570456542637a2f6e72576a3759382f52336c35387a4c363848772f45553935554a42783635386345675333713336684e623543703268704c43526c766b34774a4b6d344f4168356b355a307973364c6e666c7265774f32474e3868554e79335232515432596954727369346c6c79794b6a646a6d51735241566c49582b4b4642624262796d7135312b4c6f513536367a584577765631616e35565a6c67503370685945375432764255467346335267486d6433323757714f5130684979397a3364537976424931464d52354d55446d6c2f4f546768637a70487350435a63704e4675554c626e6448445a59493956576664417978616a48316147343246627a6b6e7046437931573747666768574879755a444f4f5871456544702f7352583031696b4b456f544b31736a356b7141466e52735a67463158474f37354f472b30694e5748446a45515a4d3754755075456a304f374d305935497172444d6a31374b5862514b3465364559657330326a6c6f653942462f585571477635316a4736686c435363396d524b69772b6f30317032316e70316657587a6173512f44776c68536d2f765a556b6f4e684f354976437a7a644d766278456b7535364777506c7270466249622f527161654454504a487372356a4e6b7770683748537878425a2f6c78504c3164376d5a61397974476e796a3934357474654e4e644c6a2b76774e52584f514457784c624c6f6b672b5754536d4358513158666f49675368517641644737516c473054736742664859314d7a43527461466468764b31593848587550764b7267426c31725673674c3857526463307a4277787478643869714655416d43574e67705779474274515534755066363631682b4939596a4d543937424b68737750534f787850647565376c797649554c72435a42383849616a48417831417779476831756e55464f496c6e6d38334a79386c4d53456a4654716f79314966586642782f512b504b41423546326b772b644670556b6861396a4f396c71316a685543674c33416c6a61335030707756472b68425671676a754473717969716d626e775579457147314d6a326a56665264514f573162582f52417874414e533468424e34782f6d7156794f334b2b4c676d7a6a664d47693337345553646b5a45505954693466684b5a6f7239396375567a324e6d4d49676c41365a31367a7457372f526a6b304e7876316432346a654d457a7352795a467a6957316b576f4935735849644e796d526153334476536b736e46494244
+    [dvinciiv] => 3c3047c42d5839a1dc5007268528c4f6
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 4
+    [spambot_recovery_title] => VlSNGDRzGCzBQE
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 4
+            [title] => VlSNGDRzGCzBQE
+            [details] => What's the interest rate on this account? Very Very Young Loli Porn  alexis love is fuckng sexy
+ top list pedo sites  That chick looks very hot *omg*
+ xhamster husband video cuck  someone please tell me her name
+            [fullname] => What's the interest rate on this account? <a href=" http://www.xfire.com/blog/afutofee/2490423 ">Very Very Young Loli Porn</a>  alexis love is fuckng sexy
+ <a href=" http://www.datpiff.com/profile/ynobobi ">top list pedo sites</a>  That chick looks very hot *omg*
+ <a href=" http://emahidukop.yolasite.com ">xhamster husband video cuck</a>  someone please tell me her name
+            [day] => What's the interest rate on this account? <a href=" http://www.xfire.com/blog/afutofee/2490423 ">Very Very Young Loli Porn</a>  alexis love is fuckng sexy
+ <a href=" http://www.datpiff.com/profile/ynobobi ">top list pedo sites</a>  That chick looks very hot *omg*
+ <a href=" http://emahidukop.yolasite.com ">xhamster husband video cuck</a>  someone please tell me her name
+            [KSFsvZdcNHtNQvYcuyR] => hWvo6zdx6179FT8J695PbP8aEygLGg7PJ
+        )
+
+)
+

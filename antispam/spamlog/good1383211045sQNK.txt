@@ -1,0 +1,96 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 3
+    [title] => ZdIvJUlfyxIPWYvwpGZ
+    [details] => Thanks for calling <a href=" http://www.gameinformer.com/members/ikojusasefi/default.aspx ">imagefap mac lolitas</a>  shes fucking hot
+ <a href=" http://www.netvibes.com/lubasotod#Preteen_Boys ">Preteen Boys</a>  This is definately an amazing scene.
+ <a href=" http://ibaubykejyf.yolasite.com ">Lolita Preteen Underage Elite</a>  damn this vids is still hot...makes me jerk off every time i see it,
+ 
+    [question] => Thanks for calling <a href=" http://www.gameinformer.com/members/ikojusasefi/default.aspx ">imagefap mac lolitas</a>  shes fucking hot
+ <a href=" http://www.netvibes.com/lubasotod#Preteen_Boys ">Preteen Boys</a>  This is definately an amazing scene.
+ <a href=" http://ibaubykejyf.yolasite.com ">Lolita Preteen Underage Elite</a>  damn this vids is still hot...makes me jerk off every time i see it,
+ 
+    [firstname] => Thanks for calling <a href=" http://www.gameinformer.com/members/ikojusasefi/default.aspx ">imagefap mac lolitas</a>  shes fucking hot
+ <a href=" http://www.netvibes.com/lubasotod#Preteen_Boys ">Preteen Boys</a>  This is definately an amazing scene.
+ <a href=" http://ibaubykejyf.yolasite.com ">Lolita Preteen Underage Elite</a>  damn this vids is still hot...makes me jerk off every time i see it,
+ 
+    [day] => This button should not be clicked by humans.
+    [VVMczpFzvNtOF] => fS85edYTP53TosWzyvOPH61c2PoPMWWp2PJR
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1661
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=de4b8ba418bdc374ed17e00d17d6c67d
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 198.27.80.33
+    [REMOTE_PORT] => 50222
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnIgJcD@zacAAFsFP3cAAADR
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383211045
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 5335633058752b4f2f4b4835694d4c4951476c67372f5373694678626257307a4b4f6f4574474d4e76387a5255326a586d665846303143474e4f46336f4f4f6865533541326c424b335959696b51695662514f73423938686a437a3577454e7573695a362f486a3641493355414152345337643054564731664d774b4d4a4e4547503065725866664b5933366c6b334e5236467447515450364e4f4a573465544d7774575938556f7a6938586b5245716b6d51333467705877713339352b5a325164375865634c5263464c5a714253566c61677275612f585148324b324f7479567a666e4646377944436e556966726d4e7933614b2f4d55724c4973674235574a42514c5a6863413651373352577263496472774c41504d43474c39396862775658637a4572736453364f447a7735656c46794b673257326f6e46532f7a684f6a6168706158706b38712f6268392f7347366a7164367a5a4f5441442f557a6c576f73646472514e504b44763647712f6736476b79612b496b552f696168365550364c325235574f4d6d7734427951732b79516e30623071665567305450327266666e33304c55507136783055326b537469757a4c6b6b6a37673573525777502f716a5a4131464e51315177646f726c5038384f714d6f767a734e665a6c784952786c444d6d2f6c477a4b666a4c6d4947427a7a6f4d625953554539724c38383167722b7056457473717a37556963727858784a5068754d4b48504f6d46594a6268315a704a2b446a5739384d723739576877434652534e69557645434e4e41397949657075597962746a7a4b654851454858766e706372652f5a616a4f49545476623131656e41454f79584b58367044334e372f4f39643657685631455030636533326e72724978636f73696e317a344f6b4870475646306634444d724e72343639364b4973494361354735644f6134314d5a4a6e6841474b30305459376f4c33754c684e4b544d306c33353135526d694f2b544e787853362f777376516d3870713654766e3137525139527146583771733041686f336838374d73614a45676e773772616872704f4c2f554e636731456b38677269656a525531423577784261556945665235767a7137612b6b3956736c784d4d2f6372545a456568446c676d2b4975446f7a7032494d6a7434554536777258456c53686e5973434d4c394b587749755554596a5177714a742f7a47483350565342773678657a7077782b4f61354b4a6f51543745794e546d4d544175556e564e78397675314a56527654494a7468736a395a2b305152437438447450394d6d68693979573353724938746e434532306930663766467772743637483345746a35344a5537653666535746794671632f4c2f3742625978456b555058577238542b62586938425a34306d373578684741326a32544370517a32797231504d3665397867556f63716268646e704c53706b4b5a43564d56306a587a324e61424b7667365a434f396d3939786a614c304e79654c74436642627a2b35454a7745427350316a566a69414d447867714b57512b4f52372f7233336630396d37346354344e46476c4f356171335352414e636f557747436d595a737551395243314934452b4357744e41577749786e76344c4f6a4944444d5071786c58306f6a5933776772375751483832364d6b46456741657951534c31795141356e4e5050396f51646c6f7079684d7a755162396e577a59527233707631597955566e35546c4239525661625063614163797a6372702b6353454135495a664d4b444e317a4730382b5a657978694f6d4836774a623373476a34456770576577626a426455704365572b79666562577871344c70704a6255316e323254625a42764e704a4d7837387739457274374938474d463450716a77505465332b5363412f366f494a7243722f586250753973414577327939395a48347669765759486b54477133665275556b5a57535038507563794b424667687368742b305544376174596d6a3432613852584d5877754272416d6d6739744e716f694749433775704b70525659416b5a384c617566534a4b6f6e5469493833394f34506c4e4f3965725571474d45777159466e45484e676e4349424e43357a536b44705a6a744c76502b6433315a6b6159457671616f436764507a6a5638445a736a41687a525136366b4649327a73373379727a4e3067335133526954637432574842564c34526a374c7a42467679764e4c2b436775787564626372656937383758717a77504371576b30357a526a553661436a32593273664e2f51496d56557947356b33706a5a46316e362b51424d65374377326e71664d465241495034483961354a363541777167486734706455546151646d7548496133336143467a794b444c624864446e75715353623130364857342b3535344d75316c546c3971684a7845756d656779362b597451573546366c355146512b5758626b517767577a326f6169764f4c3576795a53446a4f34525530646f525538613930713444754b2f793779465250765876303736453352596839795a6b706d37564d593041436659355a4e307465706b3251535731353474503449786c63437764432b58435a5a725642496c72386647664569704a45474f624642574d4464686b6f36704f577769373552694a524c54706761656d4b3335786661544b4439444d4a756d6b582f4632652b58676a2f45322f515168793669775443364677386d76525251306f7063527755315064736c4646634945746d666a396f366731593430324b4e7645666c44355a6343553d
+    [dvinciiv] => f8960cc5814efb37355c4afecec7debc
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 3
+    [spambot_recovery_title] => ZdIvJUlfyxIPWYvwpGZ
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 3
+            [title] => ZdIvJUlfyxIPWYvwpGZ
+            [details] => Thanks for calling imagefap mac lolitas  shes fucking hot
+ Preteen Boys  This is definately an amazing scene.
+ Lolita Preteen Underage Elite  damn this vids is still hot...makes me jerk off every time i see it,
+            [question] => Thanks for calling <a href=" http://www.gameinformer.com/members/ikojusasefi/default.aspx ">imagefap mac lolitas</a>  shes fucking hot
+ <a href=" http://www.netvibes.com/lubasotod#Preteen_Boys ">Preteen Boys</a>  This is definately an amazing scene.
+ <a href=" http://ibaubykejyf.yolasite.com ">Lolita Preteen Underage Elite</a>  damn this vids is still hot...makes me jerk off every time i see it,
+            [firstname] => Thanks for calling <a href=" http://www.gameinformer.com/members/ikojusasefi/default.aspx ">imagefap mac lolitas</a>  shes fucking hot
+ <a href=" http://www.netvibes.com/lubasotod#Preteen_Boys ">Preteen Boys</a>  This is definately an amazing scene.
+ <a href=" http://ibaubykejyf.yolasite.com ">Lolita Preteen Underage Elite</a>  damn this vids is still hot...makes me jerk off every time i see it,
+            [day] => This button should not be clicked by humans.
+            [VVMczpFzvNtOF] => fS85edYTP53TosWzyvOPH61c2PoPMWWp2PJR
+        )
+
+)
+

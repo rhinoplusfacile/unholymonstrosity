@@ -1,0 +1,95 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 4
+    [title] => xGPqXQWVxazzh
+    [details] => I wanted to live abroad <a href=" http://coconutgeneration.com/Forum/profile.php?mode=viewprofile&u=656 ">preteen nude lolly pics</a>  Bordel, elle est vraiment sexy
+ <a href=" http://coconutgeneration.com/Forum/profile.php?mode=viewprofile&u=655 ">small loli girls boys</a>  she looks so much like evangeline lilly!!!
+ <a href=" http://www.postcardz.com.au/forums/profile.php?mode=viewprofile&u=820 ">nude young ukraine lolitas</a>  The photographer deserves a good shagging for services rendered.
+ <a href=" http://jeunes53.free.fr/phpbb/profile.php?mode=viewprofile&u=310 ">asian lolita pics 18yrs</a>  Take the bra off!
+ 
+    [firstname] => This button should not be clicked by humans.
+    [profession] => DZlhzrSXYqVpo
+    [lastname] => I wanted to live abroad <a href=" http://coconutgeneration.com/Forum/profile.php?mode=viewprofile&u=656 ">preteen nude lolly pics</a>  Bordel, elle est vraiment sexy
+ <a href=" http://coconutgeneration.com/Forum/profile.php?mode=viewprofile&u=655 ">small loli girls boys</a>  she looks so much like evangeline lilly!!!
+ <a href=" http://www.postcardz.com.au/forums/profile.php?mode=viewprofile&u=820 ">nude young ukraine lolitas</a>  The photographer deserves a good shagging for services rendered.
+ <a href=" http://jeunes53.free.fr/phpbb/profile.php?mode=viewprofile&u=310 ">asian lolita pics 18yrs</a>  Take the bra off!
+ 
+    [syzbGTazmzHeUqOsmguY] => 99wgPnq8J8hWvnB6Gcp8Iox
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1759
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=bf14f98e1aa46487614908fe16b29dec
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 188.143.232.31
+    [REMOTE_PORT] => 40968
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnFvgsD@zacAAAiIVN8AAADE
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383165826
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 794f667579563967344f426772795435756654326f2f2f53432b756d485a5a7a614c47417a34336564464750766d79573677566d6a727377374d2b643939456e4e45672f317a347859376f664f6a73376231656a61316161315a51416246584b6b64574c55384d4856546a4d697234756837365a45594e6e4e4b566c436a4b42535568705379484c4e647135634a49316e2f346b5a4d525941322b2b4d61336f7076385952597737586d41764d7a2b62594c7664684c71312b5738745048646d36634a4c7a5a7078427967363046742b494d47614c59314f4e7137707663423078494a77312f75496931526639396b3539394768316d6171754a6b37492b4f6564567364564747756133596371436a5764427347686d453645544e313065374b696d594257376143542f4c634752314b4c5a63797a676b6f51744d63474e78746b436f6e5a416f627369746768706e4a4c4d672f7563746363556166487456646c757a37666f4358535366346f6f4b594361797574584c515339524d3531754d4f2b684378314f674d6a57765a795377674b424244423551654145427a6a434959645050367651324464506b32303959643532586173626e63524b69443870476e7339336d7532754a5830473354796470425a3636496e4e4b56622b3661714c59334f724e2f67456a4d427867674f567a7635696c616e35536379345a41655341624d6b374f4252734b6443616c5377474c70554831693934546744494a4175592b3232583358583379664e783370724769776b5a742f414b78414d335a69543278676a6f47784a5439395a654a62364169726a387a62614d75666a4d2b73414850387a736267336c66544f534b795a67732f3679776842705863332b4e4e462f71747a49483770307a7a6f5150734775414e75562f35393936586b6f57477a6f6b5677456839506362642b6159616847624853434c4638442f4f69744536614a3442627078366b30336741416b70386144494267584e67566c524a5241496e2b707834774141455a6e6b324958794e62734272365949634a436c7045494e712b5a3731512b3156447462445657426a6b64304b774e797a393051696f41574b5670774b5133736636756f654948454f366a55745478423831384a2f346341465a436e70624744544f6953576357706e4a504373676c317836736e596a56484c7934486d7a4d484b4c6769734b4b565a4a4d4c6839484a34776433662f794279615648596650636a6d4c433031697378666b3037326a4f43634b3654675a305179486a50637279733770666673654d6b5869374c774278582b424479536d71624b6f5032484a364454746f6d776b4145536d6a6b4d68693139354d6c653234366d4471417039336f503755413770734d457244703047314a4e7a58524e7230326672326d746d6b6d6547316c68525957744b7764524b565a4e4e746c3662334941497a5a51496a6742496a4c5642775a6a35754b6b4b366d6b74734a76416a513965374b6f55313039326b727059557676566e71446765696c32346d6b7277794c364d6b79592f2f74504178416a6f6b616f435572357a73784a78395a4257474d31643130462b6f46716935756e393374652f472f6b746d644949492b4f31495a6d48514d515574632b724756302f2b58714d496d66706746726a36634c6b596b574f314d4255643048583655595347725a346644514931686274767a53394f673354755946475938684f6b2b35394b51324b4c48784752617a774f4667545635485a664c586e7a4263524b594f74686c494a63706774495a534e4f3771484d483746346c44594e6967777762704c58496b5244794c4f6f6645327270426e426f43676c476e434b67376576724235644476336e5554777a71466d7930446f6346693150565a523769364d7063324e2b4e724c587570713042463174375a7a482f4d5163747141356c322b44484733735175324778473037466233634a616b2f38747533396456595a7a5063376b6d4d52456c4859396159322f3976536b44625a7663616c776f4c6b6d7a66734b47586a527154656850396b674b44374d637241675534396c59735561684f797867537278426644364e73625967666a6350644439454252666d6336536b384a6a647762554f745673776a42506d716e785864517a5241486f527733524852373375757a476d745046654e655044552b6646776f2f6659547435554d65412b2f2b34584c2b71664164304156533678515675565361454f4d413157424d2b51314a7969674f534d6374344256495a2b784a38644654797649787364626a7a4577714b4e323836527965484748484874476955654567316e4d715a675747524a552b5a416d652f50496f646632626b78693851613456396971616e4568595457384b6850383177785271455752713854484b56717a3769514949677a3433704c554965574573716244584a664d764f3451746c594a767447626b6e68306670416477637874567349323072687461536e34354d6353313931365934375470324d4855754b4f6b72756c42522f716368676571344951366a76746c2b414c524a4e646677756d726b46774c4b503369465175703645444358445133706d6d3363556f416c2b4b2b4771444a68304c3579342b6d476f4b48596136727947344f66696a2f306a5255426e6635393777665650366657775459467677706b3678666933656f76442f574d4356325a38446e4230426f2b2b556a4e61753064796b6946384f64376f36595444506c2f4b444a6b7a46526b446764784f2f697a706633493d
+    [dvinciiv] => 639fa4a542d6e9b4cf572c9e94a657c6
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 4
+    [spambot_recovery_title] => xGPqXQWVxazzh
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 4
+            [title] => xGPqXQWVxazzh
+            [details] => I wanted to live abroad preteen nude lolly pics  Bordel, elle est vraiment sexy
+ small loli girls boys  she looks so much like evangeline lilly!!!
+ nude young ukraine lolitas  The photographer deserves a good shagging for services rendered.
+ asian lolita pics 18yrs  Take the bra off!
+            [firstname] => This button should not be clicked by humans.
+            [profession] => DZlhzrSXYqVpo
+            [lastname] => I wanted to live abroad <a href=" http://coconutgeneration.com/Forum/profile.php?mode=viewprofile&u=656 ">preteen nude lolly pics</a>  Bordel, elle est vraiment sexy
+ <a href=" http://coconutgeneration.com/Forum/profile.php?mode=viewprofile&u=655 ">small loli girls boys</a>  she looks so much like evangeline lilly!!!
+ <a href=" http://www.postcardz.com.au/forums/profile.php?mode=viewprofile&u=820 ">nude young ukraine lolitas</a>  The photographer deserves a good shagging for services rendered.
+ <a href=" http://jeunes53.free.fr/phpbb/profile.php?mode=viewprofile&u=310 ">asian lolita pics 18yrs</a>  Take the bra off!
+            [syzbGTazmzHeUqOsmguY] => 99wgPnq8J8hWvnB6Gcp8Iox
+        )
+
+)
+

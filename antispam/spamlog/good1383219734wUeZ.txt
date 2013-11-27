@@ -1,0 +1,95 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => LBwHvsWovAvvsdFlkvr
+    [details] => Could I ask who's calling? <a href=" http://www.tooys.ro/forum/profile.php?mode=viewprofile&u=138 ">penas negras hot lolitas</a>  hmmm.........liked it
+ <a href=" http://www.seduction-fr.com/drague%20forum/profile.php?mode=viewprofile&u=2491 ">lolita model links hairless</a>  this is good shit ;D
+ <a href=" http://www.postcardz.com.au/forums/profile.php?mode=viewprofile&u=835 ">pictures 14yo lolita nude</a>  this was so hot. but when he tries to speak spanish is a little wierd.
+ <a href=" http://naughtylist.free.fr/forum/profile.php?mode=viewprofile&u=5575 ">hot lolita y gallery</a>  fucking heaven right there
+ 
+    [middle] => 2
+    [commentary] => Could I ask who's calling? <a href=" http://www.tooys.ro/forum/profile.php?mode=viewprofile&u=138 ">penas negras hot lolitas</a>  hmmm.........liked it
+ <a href=" http://www.seduction-fr.com/drague%20forum/profile.php?mode=viewprofile&u=2491 ">lolita model links hairless</a>  this is good shit ;D
+ <a href=" http://www.postcardz.com.au/forums/profile.php?mode=viewprofile&u=835 ">pictures 14yo lolita nude</a>  this was so hot. but when he tries to speak spanish is a little wierd.
+ <a href=" http://naughtylist.free.fr/forum/profile.php?mode=viewprofile&u=5575 ">hot lolita y gallery</a>  fucking heaven right there
+ 
+    [day] => I do not
+    [dckIwVNVNRemOPDeIRjj] => gLK34sX01XEpB8wZ6dCo0SSi6Zu
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1709
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=dd06485e985050aeecad385de68fdfe6
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 188.143.232.31
+    [REMOTE_PORT] => 34645
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnJCFsD@zacAABtmbnkAAADR
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383219734
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 6e684673474c6f37734944696b72416a726d364a3436653630516f593857614774544367746933714b456859756733347653647172453367726355594c6d46752f764c3438344b6e4f3856564c6e527242634b6c632f4c6c353476707530536c706c2f6e665a636d4f645358776255726c58746f70476d42676378396a577068437073467754775a51764638764279444a6c6575376977547050617859617150414e3039674c6a4e5962525849546f475a2f7053762b434343436938364452556c464157714c6e734d485170506b77446e5146377a2f743666717a4e44756f556f6f72394d74324e4f49446b4376414f363562764e6b3356397a68357550313572496a4f585a4e6c757968464a455436584d3944387a6d5258442b365a453333446c4b49504a596666484937766f337546456438333358443151343135554a35496a514f50562f375546417633417151724c6164422f5278726b2b2f4c456d7a51317332455a3365704153797837682b5a5032754531466e6d347a56586d434139462b796a7839412f716645786f4437697545714b32726176306931704c4164394f766e787a6b64626942554546722b63617852427465705a393138656649654333762b7535577873545468677a787675515368775049496143784f4b47476862707a516f6d77653873677533676b6565385242306a306c316844744a7977656b33475a654f704641624b45373363517a38622f7832397333777375615652754c466a77456b446d3853723851704874492b534b2b7662315637614f324e7156743547684a6c70624259364f67666e5237627764634a3058754f4d3138703054736a4d4137327a5a6f7045614d4d446e3044732b6e346739476961766d5a734566456b4252784b4f667239412f707a54614c696943416e304d6d533657772b58642f4c65425548576d2b2b364771634656354a4549512b714458587845336b70744532307375494669767872783848765467545a5a47544e493763324c576433772f3048692b79386669783455726f4c50735a467757445a7732724b726c746156776354547161614a71596b50417a686b5a536c4346346332436b3872374a54726e754378667072714b786b766b416c6d76387959506e56625548664f32356569724468684850446a752b514d776659784378555765742f776156776d614c516630696d6844422b656a2b526b3845775a77522b6e6f3136383867636573397a7871414a3465445573303275624841725649314248582b6b5367444b3653312f526e6468715841776b7152475a4b67453438745962766751347967426c733843513242594b3059652f4763362f67452f51612f6247796f776171777372622f5867614e50374f44376a54524e2f5a33653463476c7452724e583957586f4e53754d765036353552463438734e2f496470436479615370495a676c7579524c554243734666584c6b727967586c535a35424c66584f696d6830306b6a496b436434664563385748684e6f336c433150544e50576e353074527835355438536f356f386e68617970703870436b6269396a68335878457a4a2f59786f46615441706e67594c61466a6d39636f69455a6d7a6364436e554d62707a2b364c3674386a5734636c6d6e57655a2f7834504542776f3458494f67352b6437706f47594a33634e31685a7449387079397a5477504b566374427152664d6b6a7a34746d616f6d6963626a63532f766d62655679667038383039615330504573754b665a6331374c4c426e5541457474715475454e75464f612f443376344948573071465175594f69423344335931465a2b79394b596a2b5349447368486572366a727a324255586c7457416167513139726f4a472f4b525373724d42666e6e5568756e583938634a4e51357735412f614e30314e78574d7071484651335531553679674b62484b4e642b5268545a446376555054444371636f6950446c3059392f3439486736566a4d5754493144704d6f4757474e6d347133646f4277374a79316e7030324b7076645474444a51344d6145736e717743436f5158723666797354356f775a6b48727a786a70532f56474273615673657543705677634e555a3238757878706a7553784f375a756952564b4969586d685976452b754d727a684e585976785679503849566b4170724f44375259432b5678446f514b4a66615270382f305741594c4547396a5a6a45704f76374c71715178556864364e75754236796263582f774b6e2f5156484d6c58416172786e322b467957536e766a7047465071493639493766316672557356374277555450633068744f726a42656f72757747335a564667504557793648336c67347a4b584f573172625a4b7857687472394937532b59723466774c507436696b726a654354356a47324b5a4c796d74774c2b714d66775373566e4779524f3543654d7a59667a7770583051496b5a4751516e654651794f51537164715a3361466e746e6f6c7767664b6c476d726432396f2f686935777350665763655976445231433578703650394a344f7147723547756e5a395a4b4d693552502b2b326f672b7a574568374b41505a70634b544661446965486e466f314b486c2f4d743443792f66386641616f687759454974757975763857437a7a4d524e662b6a6b69506b73617934614558734f4871356f317538334a636a464866455551504164704e6f3947654e6b325954486b685576457468424332475433374e366d566d6f313150497846347a674255753450775166725778553566773747416f4b396e4444347333325a556c356d56724e5169586851467055497667543338473855345375522f2f42685453796a48786c78705a50376d4171657437736d79686e796e47554b733d
+    [dvinciiv] => be564a7aae38ea76126c921f77cfb987
+    [markForm] => Array
+        (
+        )
+
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => LBwHvsWovAvvsdFlkvr
+            [details] => Could I ask who's calling? penas negras hot lolitas  hmmm.........liked it
+ lolita model links hairless  this is good shit ;D
+ pictures 14yo lolita nude  this was so hot. but when he tries to speak spanish is a little wierd.
+ hot lolita y gallery  fucking heaven right there
+            [middle] => 2
+            [commentary] => Could I ask who's calling? <a href=" http://www.tooys.ro/forum/profile.php?mode=viewprofile&u=138 ">penas negras hot lolitas</a>  hmmm.........liked it
+ <a href=" http://www.seduction-fr.com/drague%20forum/profile.php?mode=viewprofile&u=2491 ">lolita model links hairless</a>  this is good shit ;D
+ <a href=" http://www.postcardz.com.au/forums/profile.php?mode=viewprofile&u=835 ">pictures 14yo lolita nude</a>  this was so hot. but when he tries to speak spanish is a little wierd.
+ <a href=" http://naughtylist.free.fr/forum/profile.php?mode=viewprofile&u=5575 ">hot lolita y gallery</a>  fucking heaven right there
+            [day] => I do not
+            [dckIwVNVNRemOPDeIRjj] => gLK34sX01XEpB8wZ6dCo0SSi6Zu
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => LBwHvsWovAvvsdFlkvr
+    [spambot_recovery_description] => 
+)
+

@@ -1,0 +1,96 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => UEWSJqVfOgCzTMY
+    [details] => I'm a housewife <a href=" http://blogs.rediff.com/isyoacy ">Nn Nymphets</a>  why is the cameraman talking so fukin much?
+ <a href=" http://www.datpiff.com/profile/demihubapi ">teenie bbs new</a>  never had a beerbottle up your ass? lol. she obviously enjoys and I would it too!
+ <a href=" http://forum.xnxx.com/member.php?u=508115 ">Bbs Lolita Top Galleries</a>  hey   Thank you for sharing it
+ 
+    [question] => I'm a housewife <a href=" http://blogs.rediff.com/isyoacy ">Nn Nymphets</a>  why is the cameraman talking so fukin much?
+ <a href=" http://www.datpiff.com/profile/demihubapi ">teenie bbs new</a>  never had a beerbottle up your ass? lol. she obviously enjoys and I would it too!
+ <a href=" http://forum.xnxx.com/member.php?u=508115 ">Bbs Lolita Top Galleries</a>  hey   Thank you for sharing it
+ 
+    [commentary] => I'm a housewife <a href=" http://blogs.rediff.com/isyoacy ">Nn Nymphets</a>  why is the cameraman talking so fukin much?
+ <a href=" http://www.datpiff.com/profile/demihubapi ">teenie bbs new</a>  never had a beerbottle up your ass? lol. she obviously enjoys and I would it too!
+ <a href=" http://forum.xnxx.com/member.php?u=508115 ">Bbs Lolita Top Galleries</a>  hey   Thank you for sharing it
+ 
+    [day] => No
+    [hHPWisIjZ] => aUNLf4Crt4Qa7Th320GHYseC
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1597
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=2667cd45e7b480c9642311bf6e6a86d2
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 37.59.32.148
+    [REMOTE_PORT] => 41043
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnFUaMD@zacAADKobiQAAAIK
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383158888
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 675a665576386138515965362b30773530516c41477a477762556b65655863322f7753756a44374c5545525a516d7046516d2f72424c623454466e314e47566255657a776b6e5049575a5851693739436c5a2f714949322f45555547766a6d4c2f42395a54494d6b6e42526e58466155307359336c51465243413953503872637548674372354b79396c4258495a6e4e78464651507754565366737541685a34794e427949796f4d32314b3171716656482b783938393234316e77343635427046747778446b4134414c7a686d4f63615475596f342f3956354f714c2b336248516c516d73524b493665346a6743724469784a6a6d6c4a2f445a6c4333414c46564e307262447944466345314d6e48555657686b57357471664c5077356a6c4c3655744439436755694f3039424862445469454354764238683248307863524f4c6b47515364326d516977416f346d4c4b64697669706d4d352f57336d324966764248582b5049466b4e6e475865784c542f514a7a3163352f655a713765504646687370784265384250356969334b53456d75384b424869676a3665445078724932493666687379676e37747530476c6c7067546f6570635a385573576e41693435787a2b42325837525279574b3274465143306c6951306170727a795471307163706d4866362f622f64616e5a3756737a72316f635a333962534e58656a434f68635579454b6d4f623452416c4b5148492b2b665346625442715850675867372b477669394f4c48634d51326f397332613761364a417a666e4c33586d68424b68736f4f3337496845775249546936456477734f31462b394577333052534a6d774d46532f6f7153333444524b6431652f364464554f573331485539355669586e6d536a53344f485469525a3865303149664a65704b6464375565382f7938704b336a425267614c4b584c73394a3361554c5732756757735731444e566e34466b6c4b4f5737546d6246734d387937742b3578616771793175354754666844756959565153582b5066614430305a50676e75736b3249656f7a586165364f754e55366b4c42362f5935766b4849717838414544774b66574859364d344c544675624572344b4257304a7758765261735257594e477a54356157443049533977376b776f3736696f697a646f702f39593045704f314a7a556b42444b304b50757748624a63706a79504e5357692f4b4861732b447a6c6d353141763643782b43557a65316855596971386e4c464a456e3756586b77557670386f6552304a5153634342467947687749544d79707832495a632f7076746a685a315933666a6930325a6749615872394a704178647162447542494e4f6a56684e52546c427a417647684f6950416836322b5a6d41387266444e642b684b7873665a4f66353153436453624234366d4f58326657634f6b48633578535966627746705235466343484c796d55524c3650726a7144427877706159776c695a567244334a527762312f7a7359562b6e4b465830447045664d6e6832547556304d48566d666e56356179713245734f78396779563146704d425957716f375272352b734a63596146785a7543797931555a594154715244416d4c784e796d4431772f65486661324c2b2f65534a4a554f43695032665256423072567a76544a775a325a776d6d624e6b503779356a5a46364652546f39433530666d4b356e3778554c49632b67546e714571672b5950324b6d74676b47476f2f394a537162594379784f78395749462f32576f62654664786975736b50386663563475774f3375385332464a543664796661624a34646c3875412b71454d644f326e5757676c6a3166364c7a4d787a5a2b38506f794571304466787036474a454d624a53322f6830332f596b373261485a7844375759386c6c7172462f7866306e6763646e437a6a714250446a5667545956635745342f514c594a35742b78505678556f316b49346c6a4c694f513865326a6148782b6b2f59726247326451446662364336516c4645574d61685255655a566f616941425332516978494d38367758555a5a2f472b6e7836525337503564546a3576784c634a3743446b544665485358306f447579645930714554354b5455576c696d6451504944753563467332436f704e436c2b75556e64456f50384c6d72486c364f442f524b4d49796c6d32525742557a68515475324b62383733434c424b666a626b64614b503661785869466d73744a527973573952693150384c78464c6a4752645742474b4e61414254532b547a32774f4d546767596d5a52626846474a416e5835535a4c5954716e7234727a577771684f557547376e3244354d573161663474657348767a59592f4f4b34534435786d64744b59786e697568363971636a44694c71735a694653784d56656b644c4f495639446931504272584f363468344d6c4e4c55416a567048342f536c57354e70744676532f723943455076776d55586c4278465644764e677530656b5a5135677a47337a57714733412b51456749584778633072476d45595354365632305a49612f5765564c4a4a576630666379792f3554383258413777574443627644535034503433713133304232786b42426e7050477a3645754d566533504c586a59626f5342574d467177544f63414a7462414c3033304662572f7059317a333345386f79476e6a6b6339595764595a7466667271686a6677426e7a4e484141496446654966633551533439736e50774f4e70322f554c534e6a6f363844576c634e436946767530355739346a7150322f2f7347724464692f314b44626435624f6f4f434a5752616a705961
+    [dvinciiv] => aed75d12d5dc94e50663d1b55d6f2947
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => UEWSJqVfOgCzTMY
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => UEWSJqVfOgCzTMY
+            [details] => I'm a housewife Nn Nymphets  why is the cameraman talking so fukin much?
+ teenie bbs new  never had a beerbottle up your ass? lol. she obviously enjoys and I would it too!
+ Bbs Lolita Top Galleries  hey   Thank you for sharing it
+            [question] => I'm a housewife <a href=" http://blogs.rediff.com/isyoacy ">Nn Nymphets</a>  why is the cameraman talking so fukin much?
+ <a href=" http://www.datpiff.com/profile/demihubapi ">teenie bbs new</a>  never had a beerbottle up your ass? lol. she obviously enjoys and I would it too!
+ <a href=" http://forum.xnxx.com/member.php?u=508115 ">Bbs Lolita Top Galleries</a>  hey   Thank you for sharing it
+            [commentary] => I'm a housewife <a href=" http://blogs.rediff.com/isyoacy ">Nn Nymphets</a>  why is the cameraman talking so fukin much?
+ <a href=" http://www.datpiff.com/profile/demihubapi ">teenie bbs new</a>  never had a beerbottle up your ass? lol. she obviously enjoys and I would it too!
+ <a href=" http://forum.xnxx.com/member.php?u=508115 ">Bbs Lolita Top Galleries</a>  hey   Thank you for sharing it
+            [day] => No
+            [hHPWisIjZ] => aUNLf4Crt4Qa7Th320GHYseC
+        )
+
+)
+

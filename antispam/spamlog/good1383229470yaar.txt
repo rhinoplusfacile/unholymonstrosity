@@ -1,0 +1,93 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 3
+    [title] => zqJxBbqacCCdewq
+    [details] => The manager <a href=" http://www.gameinformer.com/members/ujakaanuqadyna/default.aspx ">xxx lolita petite model</a>  love it and what a cock lol
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6154901 ">naked underage</a>  i can never watch Greys Anatomy the same way again, lol
+ <a href=" http://efegasan.zeblog.com/ ">carmela bing brazzers</a>  they show their breasts so that they can cover them later with a shirt.... lol
+ <a href=" http://iajukineha.yolasite.com ">My Lolita Non Nude</a>  Wowsas.  Good angles of the vag.
+ 
+    [firstname] => The manager <a href=" http://www.gameinformer.com/members/ujakaanuqadyna/default.aspx ">xxx lolita petite model</a>  love it and what a cock lol
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6154901 ">naked underage</a>  i can never watch Greys Anatomy the same way again, lol
+ <a href=" http://efegasan.zeblog.com/ ">carmela bing brazzers</a>  they show their breasts so that they can cover them later with a shirt.... lol
+ <a href=" http://iajukineha.yolasite.com ">My Lolita Non Nude</a>  Wowsas.  Good angles of the vag.
+ 
+    [profession] => This button should not be clicked by humans.
+    [YQQMeJqnUp] => 4Dtu1HEJ4QB0723hX1o5WS
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1477
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=c898429ee1622e0fd32aefda35c7ecd9
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 46.105.114.75
+    [REMOTE_PORT] => 40651
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnJoHsD@zacAAGmGUF8AAACT
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383229470
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 347878564a306f35453352514f74794b36767556616b6a364462375852756f65464d372b44544a50684471316d63684a56617a4e47716f657635665a733779304a6361585962516a6b5479784a716743595243666d307665493678456e5846686e434473733066642b42533245666b4c772f7068614e69746a5a777548524d34773734584a6e574c6e693943694773325177494e657755384b49524e5a4b62536e746c53644652794a4c434b7a51416e78386b534b33567862772b32337a565356343734734c756353614b50337a4a556955536f59584e4e2f417450586c714c2f6e4a51444257766e3565546b574f4c42485477786f476470466d686f6b6246526475687346355767676d30525a666f78384148626d68313859755970777554387657666767674a4a346d6679794c474549355969645043776a43796d6d704a33675254786453655766556153513432576d66635a316a526b756f4544513042375341744c7379434c71774e4e6b4a57587550366c4e6c756530747632456c70624c3272474362454b774470457a3834674c7a71444c7054443930547832355953646e54712b43505935324455466b61377675535a3759765261522f4968396e556f2b714c6253753038324c526a547473585a62715a62577252417466344a487261794a54696855736d5a396d554e59755079414c62417a7a67514967537971565147445a796442766369346d2b79335a6249764e4959484a362b3842516d6c4b6d3779374434537538752b456e463553554964434d76356a3365644463334c766c4c4e514d7a35576d324847596c51522b70556b2b4661413477387435733475764d57744b7a477256434355505577776f326a7235302f78706579517857676d3652304c4a66375534614434456a7a774471486e692b6d616253424464435076334f6e7a7a46782f4e43683361444d506e54316f5276704c4364363465576e303132645a6e706963357a4d4e4b316356314f413550743435353733774b4f2f5a71472b376d50636a4541534f6f5766496138496c7a56646653704835796d3669716867357030507873616c6f4a77722b58747962307177375875352b4551545431416f575632573430545173583462316b4e61626338556f6152334f6e375153336350744e53766641674b64636f76747457636d53764b6d664e39364a387453467a35534d506f6a4a432b6433725277724d4a4c70587a39756b5964526d3354624a31796a56364843655167416f75446848665174734c6b7a6b6836307a764e4773664253746e34763976624758472f3373662b4c2f2f4b3859617748793646416c5679786f6f4d37647a534b56612f4f556b4c4c6152554355594b6e4f6159647849553374783072707864516a614b4861326c4133394953647864676b48446266716c737a775763646b4a4b76454748364e2b77554432574a564c4f5a66346767762f675a36676d6e656d5265436963524c39337347536371726f35636a75765a6f414135354f6355384638432b666b58356e6555623364646554552f5635525941564933637332765a776a65594950676d7364563872516d54463647747a6a4f78362b4b544b622f4d333673774a713747676a2f657736585870785970787a546b4b42756e6236786d436d436a4768757531317861634e78426375677470582b6d694a3053364e3646394f706c67656154727a7830696e365a615669464a2b3445302f37594c644e794e427a6a746168574758484434306f4c376372416135657661574132736a6f6839453474743043327531473076724b5847466a68383332743869524b75784477393759586d3252343550495130565154726c6e72712f31342f32312f617571382f6478316b48694e4e39564f4a49306a36686777623833356350534b6c6932644251746f634f4e4f38577732544c4571495239534e726f54716254764e676e6b70786b6d312f43454e6b2f62367554666c76615a302b436965395077424142555839525237736f337048734b4b513966746737656b5074434764493757757a3133724e66325761705735544b68584547534b57497a637978342b3362374f764736627a30305653666a325751494d7568414a34364a63756a32726133796d4e7353426f7042774e486e2b414b4243594952594a5235317461736e6e5979526f7a6f796d41774e783550327a51795763474f5231786757344f4873526b3451724833496c784252786d595571753247684b5939593152784d6950442f57624267706f3569515a373566614c726d4159346942646733694859686867496d6659366f536e46733655566e362b5a51554a4f6a5255786b4e6d724e486871756a2f79344361336b724d3954344e6177737634496c50622f5169364d542b4f557936724b5676573275776e65784f434b41732b75723261352f5638527753315245564c63552b7a3857462f38685355412f70686e64586858656e6e5541712b4732547561493161504870513735384642463937474c564658344138754d502b50726c325253436a4653566d73374b5173734a7a41447251473632765953717461366470442b7139457259512f7179654439393663515a384e456e643438394b5745437131702b74525435334d306c72524f716f7459566163597046475675696e583934706e5634647639423363776f575732416f387756316745497877637851467641314b736c467839644e4d2b646448534e6b4d6e6f6237344b7174634b6145576d584a35554f5947474563673d3d
+    [dvinciiv] => ab7142411859ba8690bb9e97ce7a03ee
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 3
+    [spambot_recovery_title] => zqJxBbqacCCdewq
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 3
+            [title] => zqJxBbqacCCdewq
+            [details] => The manager xxx lolita petite model  love it and what a cock lol
+ naked underage  i can never watch Greys Anatomy the same way again, lol
+ carmela bing brazzers  they show their breasts so that they can cover them later with a shirt.... lol
+ My Lolita Non Nude  Wowsas.  Good angles of the vag.
+            [firstname] => The manager <a href=" http://www.gameinformer.com/members/ujakaanuqadyna/default.aspx ">xxx lolita petite model</a>  love it and what a cock lol
+ <a href=" http://www.1up.com/do/my1Up?publicUserId=6154901 ">naked underage</a>  i can never watch Greys Anatomy the same way again, lol
+ <a href=" http://efegasan.zeblog.com/ ">carmela bing brazzers</a>  they show their breasts so that they can cover them later with a shirt.... lol
+ <a href=" http://iajukineha.yolasite.com ">My Lolita Non Nude</a>  Wowsas.  Good angles of the vag.
+            [profession] => This button should not be clicked by humans.
+            [YQQMeJqnUp] => 4Dtu1HEJ4QB0723hX1o5WS
+        )
+
+)
+

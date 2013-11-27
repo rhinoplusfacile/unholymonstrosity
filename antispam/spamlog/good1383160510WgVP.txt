@@ -1,0 +1,95 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 2
+    [title] => KZyXuAriWN
+    [details] => I went to  <a href=" http://www.seduction-fr.com/drague%20forum/profile.php?mode=viewprofile&u=2474 ">lolita sexy top bbs</a>  nevermind. i found it elsewhere
+ <a href=" http://showyourcorvette.com/corvette_forum/profile.php?mode=viewprofile&u=649 ">gallery loli pic pussy</a>  yeah the last one was awesome... shes a keeper.
+ <a href=" http://thegestalt.org/mashed/forum/profile.php?mode=viewprofile&u=45914 ">free lolita pic xxx</a>  that is some nice bust
+ <a href=" http://naughtylist.free.fr/forum/profile.php?mode=viewprofile&u=5561 ">naked young loli teen</a>  i wonder what i would do if someone paid me hmmmmm.......
+ 
+    [fullname] => I went to  <a href=" http://www.seduction-fr.com/drague%20forum/profile.php?mode=viewprofile&u=2474 ">lolita sexy top bbs</a>  nevermind. i found it elsewhere
+ <a href=" http://showyourcorvette.com/corvette_forum/profile.php?mode=viewprofile&u=649 ">gallery loli pic pussy</a>  yeah the last one was awesome... shes a keeper.
+ <a href=" http://thegestalt.org/mashed/forum/profile.php?mode=viewprofile&u=45914 ">free lolita pic xxx</a>  that is some nice bust
+ <a href=" http://naughtylist.free.fr/forum/profile.php?mode=viewprofile&u=5561 ">naked young loli teen</a>  i wonder what i would do if someone paid me hmmmmm.......
+ 
+    [month] => 10
+    [email] => This button should not be clicked by humans.
+    [MwqYbyTxpKoTLbYGyV] => bD16Z2X3ugv5Pj7K9J87fm535yLbn
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1748
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=6dc5a7431197f1d7a6978978e226b5d0
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 188.143.232.31
+    [REMOTE_PORT] => 36857
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnFavsD@zacAAAljU0sAAACP
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383160510
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 6434632f6f503573373571727a66573176347669654556425638677559774b316a514976577968316151425677425068525338426674584476525950616d324a4f32306f3739686a365a43345057667a2f4b466c6f39394f63506270774532436a794f696e5771676d5468593467435575687a497a6934423049464e796f744c70414161784f42744a41584d37634f7441514d66593571556d6b724e64327a4e644e365a55463139336f436844774835616c6a757a59697048344e2f7a725351762b5a6c4e792b777a7666482b55564a6f334a786a366b79546a594d63776e4254726230546248505a776e6b544462376d4e305748475856475173664f43625530675759442b522b7746726779545439707a526b495a4e36616d4d5470334a686d7745465359657672477165796156534c50506e6c6e7062432b41596f792b5356586b516f2f7938517832546f58355a3267747959317a577759437072466c47385a384a4b775153474d2b3172464a655a43476d7476696c494653482f4f66634f616e687a636430386e537477304e7239625449524a55576c766941344635426345484b2f6d6b4e4865433748536e5270787a764b434177662b50786745374e4f456c63785965674b425a645076556d664e31486d7143424c74376f532b394e3479676f754d7959517231576b716239306b4d70363872336e5451484762382b434d4d434d47643135473355752f4269385a6f4666426c377069314c704e4d4f746c70385a5866386f4a564145566862554179636c70346a704364684d584e576c665977616963486332377432472b75616e6a4a7a68787a5877746762327a775751364a334f53495042726b447065696c2f334a30584d51633437444741317666537541376759486d446d6f4d626c2b4c5a53364a454b3267422b674a476245616b6c64494479434c3748655750636a65374b5945526f6c70576e314777544e664c2b7156706d4a666a67637037506e72753838323059796f73347a53354b7650706550746a56742f5a5a432f52612f6a4b5669715a4b35647264545a5962333274372b6a546a45763170672b375a5279722b51314764335646706e526462546d476571366153614b697864496446617038344b2b573632384e58744f70553174427a6d6c2f5278784e55427a777a4f554f7468483765364e3369765571444a4d52424954326a5862467136386d3961314c37716c71433847497663664e34477a65594c65446868343630745a4b34776f634e754f6455307a4357526343516b327469464f6232736e775162542f5453727558734f3056367a79785043525839726b4c39467636623334496c557530494c67472f375a635041386458695a4673746a764a6652337151306c676b516458303330433374454f634a706333523270496d4c6c54583251503158427956375a706d784f79726a694a2f423042553969364c34474e5651794b5a575356444861775a77456f6b4a5032304d2b3946785479777835357a535537653538413231584b472b6772736a55773945327144696949674a4d4350492f4a4d645a34424774426431647878784c4b7663557451306f325467445966636867766733354849774b38312b3353386570546b42493275364a2b7232305833513752667164564758494c4f596f43534e5949585069454e6c7a4b2b6759543371773347716f5630586e4c795a583270724e757262637461727750386c546f4651504e497a446f2b786c546f7377643747524277686c5634747264494c376e476b77382b4143415735745339346a78762b51713832514d732b625061704950786547755342785643316147746d6c616e41756a6e386c736557664777665877516f415646546d62654c6773773249705658536c595a46472b5a327073723951326e4468544266665a6279706e7441414579446d52626271326f377364696b666741527079773430566c467471316566586a48316549686150556151785469727a5a50756b7376546a6432656c37386e474d325742536a6b425a516b4538723458726b576b586d3665437a2b4d38306c6671346f6f2f48556a697332426f69797966646b6f38354b4d476551704375484f7a424f564e764f4e74587638386e794b5333417a617858706c4f74484b696e7652416d6676314264494f636e50736c64346a444b70754c326757705863476d6b46524b51525333505a4270716b79783278345731324e464e45735479484971586e554c5166334c39704c43754950664743597a526a654c477838625a3273412b6f364f3155614b6b304f4657353539333958655545726e7135336c52496e56744e577162646d4b33507a564c4c677566482f51427a76377054737634375957786a66486763385154584152435662616b4c76674e386f4c6a713934666e734b576867676b416c745554715031554b702b56566269755a4c776f514c3658494f376c354175427131303955497136427750514e5276306d547774686f734b49614a746757484d526e4973733459335456445a7a6f754172617a66737042413448547a47616e505a74512b556a74356962674c73654146766334565635533369756d64534752526a456b685545547746556c6f67747135524a315973633437336c59634d5a4831703536524f596e63656f6f67655768425274426664734a5537766f6162312b30636b3551556c632b6b565a464e6372774964514946394a6c546757386a6d5563755664464334654968725557306b50566a4d2b47434d546a634d57716d36355a616149422f4c622f6936436f2f6d3652657853596c67476977575333724a6537326c3863
+    [dvinciiv] => 6e6b1f9d8789c61f4f3c1742874694b3
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 2
+    [spambot_recovery_title] => KZyXuAriWN
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 2
+            [title] => KZyXuAriWN
+            [details] => I went to  lolita sexy top bbs  nevermind. i found it elsewhere
+ gallery loli pic pussy  yeah the last one was awesome... shes a keeper.
+ free lolita pic xxx  that is some nice bust
+ naked young loli teen  i wonder what i would do if someone paid me hmmmmm.......
+            [fullname] => I went to  <a href=" http://www.seduction-fr.com/drague%20forum/profile.php?mode=viewprofile&u=2474 ">lolita sexy top bbs</a>  nevermind. i found it elsewhere
+ <a href=" http://showyourcorvette.com/corvette_forum/profile.php?mode=viewprofile&u=649 ">gallery loli pic pussy</a>  yeah the last one was awesome... shes a keeper.
+ <a href=" http://thegestalt.org/mashed/forum/profile.php?mode=viewprofile&u=45914 ">free lolita pic xxx</a>  that is some nice bust
+ <a href=" http://naughtylist.free.fr/forum/profile.php?mode=viewprofile&u=5561 ">naked young loli teen</a>  i wonder what i would do if someone paid me hmmmmm.......
+            [month] => 10
+            [email] => This button should not be clicked by humans.
+            [MwqYbyTxpKoTLbYGyV] => bD16Z2X3ugv5Pj7K9J87fm535yLbn
+        )
+
+)
+

@@ -1,0 +1,102 @@
+Spam was caught!
+POST DATA: Array
+(
+    [ID_ACTIVITY] => 99
+    [user_type] => 1
+    [curricular_area] => 1
+    [rating] => 4
+    [title] => oHiiSyDPSwE
+    [details] => Please call back later <a href=" http://yjaqiosarifi.yolasite.com ">tiny breated teens</a>  Who is she?
+ <a href=" http://www.netvibes.com/inuihuci#Loli_Cp_Dorki_Pedo ">Loli Cp Dorki Pedo</a>  this video always turns me on
+ <a href=" http://ekihayec.zeblog.com/ ">Best Lolita Sites</a>  gorgeous girl and some nice fucking
+ <a href=" http://www.datpiff.com/profile/aybyrorut ">chelda preteen galleries</a>  Damn, baddest video on this site. Sooooo goooooood
+ 
+    [question] => Please call back later <a href=" http://yjaqiosarifi.yolasite.com ">tiny breated teens</a>  Who is she?
+ <a href=" http://www.netvibes.com/inuihuci#Loli_Cp_Dorki_Pedo ">Loli Cp Dorki Pedo</a>  this video always turns me on
+ <a href=" http://ekihayec.zeblog.com/ ">Best Lolita Sites</a>  gorgeous girl and some nice fucking
+ <a href=" http://www.datpiff.com/profile/aybyrorut ">chelda preteen galleries</a>  Damn, baddest video on this site. Sooooo goooooood
+ 
+    [fullname] => Please call back later <a href=" http://yjaqiosarifi.yolasite.com ">tiny breated teens</a>  Who is she?
+ <a href=" http://www.netvibes.com/inuihuci#Loli_Cp_Dorki_Pedo ">Loli Cp Dorki Pedo</a>  this video always turns me on
+ <a href=" http://ekihayec.zeblog.com/ ">Best Lolita Sites</a>  gorgeous girl and some nice fucking
+ <a href=" http://www.datpiff.com/profile/aybyrorut ">chelda preteen galleries</a>  Damn, baddest video on this site. Sooooo goooooood
+ 
+    [day] => 2
+    [qgCUKMYbMpZHQsYXo] => DEiy51uHv6xP09yaap0tmnSvSmb846YEDJV2KzIangb
+)
+
+SERVER DATA: Array
+(
+    [CONTENT_LENGTH] => 1875
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [DOCUMENT_ROOT] => /home/g2drivin/public_html
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [HTTP_COOKIE] => PHPSESSID=beb22fbd145d4f908c753a41615acc99
+    [HTTP_HOST] => www.g-2-c-2.org
+    [HTTP_REFERER] => http://www.g-2-c-2.org/search_detail.php?id=99&c=1&usertype=1
+    [HTTP_USER_AGENT] => Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => 
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 37.59.32.148
+    [REMOTE_PORT] => 40932
+    [REQUEST_METHOD] => POST
+    [REQUEST_URI] => /actions/review.php
+    [SCRIPT_FILENAME] => /home/g2drivin/public_html/actions/review.php
+    [SCRIPT_NAME] => /actions/review.php
+    [SERVER_ADDR] => 192.254.205.167
+    [SERVER_ADMIN] => webmaster@g-2-c-2.org
+    [SERVER_NAME] => www.g-2-c-2.org
+    [SERVER_PORT] => 80
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at www.g-2-c-2.org Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+    [UNIQUE_ID] => UnFf1sD@zacAAAljapsAAACG
+    [PHP_SELF] => /actions/review.php
+    [REQUEST_TIME] => 1383161814
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+SESSION DATA: Array
+(
+    [dvincisf] => 782b392b447879343443666249654c4375576b367067734f4a334d75474162787971554665787358684d3663583665344e435a6348306d323567795577424e577069597a3038536133776f634c7573332f59515959475364584f646b6575347a3559667a43425734467746673733314a38344e6530676573786e4e5236796958384a446566356c6433392f4379694e64315669726b4a50363061374c72304f576d3848732b5665333034717737623332692f516a3353754c727870304a386b625a6478786f2f64664c505a5637465166532b613870424746453230516159454954566f4c6c534950527a4f5366596a4f744c6b537379716b4f677a4b764d4d31356b2b59513262424f34483878444c4d62497678684a2f2f41317a345a574b6c7352774b3353393574526a4672775669556b314f3275324e456d4d314365775231566472526d4a4a625151756b584f504e363134533743353452584651715a5279346f58386a4238434244694946454656574d72305553547576414737377341574545553164346c7a6e585830435141536d48463867336577434e4c4962504e78346348774a453944666968782f596351785735394a654261772b6475706358776e6e4378456837664b344a4353776836532f5374416a644e4d525449626e465350436f657743314c514f546b444d3043636e42584a754371592f78614468662f73464e6f4f634e33747941594f447941646a3970342b4d356667304c785256784f737470704537755644477941544a64457531516a4b652f4b35506c396e527062706b6768427a755242776c4a716131424753777979506342504362486e354e394f5056316a75764f592b5362596848565571727a78566b425752535346436172755774624c49384874646654646436576b77305a5a344e313367526b5059656a4c58526d37384a4f34614c6647376b4f51503576377a7153483950494337687062616935532b7250766e456e4c374a4e4f4774686b344d454658515361664954517739394f7a38394b4831493773367559434374485361774a64354f5a6f6f572b6956655463785258323457472b5964346544475169586237687a54413576696d69445841663148666559726454516f47746c6b4a537772544b676f2f527a666d75687975347a685750674c745a3370336c7663326937324b5265326b46326233415465354931476b4d39316d636776762b354b65797a735553705162476b507a6967677a697932713058565352426e68376d663165322b546e436b656a684f76386c394d44455453456253346a4b377863314f4e4b6b757a4c5a4374676472505274306c5a33643671726744726f644334554a69314d497364362b566c543034426b4953643241304471342f71465737375a6d4c5030383439657245414f3147586155796d53354d58636f4941596d4e6967566c5372456c4347504d4e467943304d424d4833673945696547317a58434e71372b7a70333448526b7734594c3035414431534d324e686f566c6a6c3273486b4e6c4a43346753303461377374544b74503079534d5369586468454a72386a4b4979794d4e4e65754e624357385957304674674c63686a37516172626f7a672b584e583278546b516d46346655614f30796251617339303870476e4f6a76584836356d4262505447494d6d2b51656b6a65554c735533314a684f762f574d456e6c52546e4b4a564b765444753778646d6d61384566326a5a5830685865786948732f6c556c30526f693941394f322f4c74645138556834576e356e637970574534424a7142703554672f343864446b71463741307867484d6d32447a6a3174467851636a724e6d2b516e414d534c6a74654542726d74356371676551696649306d50676962512f357878614564336b635a55744472335a787a31412f4f7242352b2f586842354b39736f363657525553794a4e576761316862386d4372384332675935654c3775743676794876597a63564d456151574736454c696959477767564a575a79633137557a342f7948765a78686c38376150534347544f78387a5861467a4257472b75615632313964685a797030764f4974566639694c6d674c31574b654664786a37764a3765797344614470506a714264446f6f41704f4b586d397a476547774c7338774e5939616967383558674a664d6f6756666e4f386738322f4d5254584d75416952637365495244416f76452f47796a2b314f57305254525961533046682b645a536f752f79524b3434593635526459623339436e7772735777395141342f666e4e6466766c335042766c487a676473656e4d325439686e7a6962693454596e6663364a45764e786e67635256736a6d685a6d635445577a7a6a4e38362b542f6e7355566c5038544a514156597549693978423132642b4933694d305273385137734a7a497735655851636378694c7a63776f4b714a476f59455939576250326347664747795957565269646a456c4f6a52413774554d416b7449417a55366e2b5a7171327a4462433277652b7a4e3565477052684472564d7769697a7471426a4464324a6f6e685a6773716831464a7a646e736232432b2f7735474f3156394761395377507245626a31474767664c41456e786330786c6841644578424f50526b4f6c7447684248784179565662333236703579364d74786e3852766c56375267642f3855655439542b436273375a2f4a7932354f69346b3932324f4543587a6f766b7443456a486a626c77532f37544a4a763256584c37535073536c4e5541737750657130547959734743766e4a4f38456977496d6d31376d6f41366e4f6b344876746f5972394b6f39304b616578316166466b6e513d3d
+    [dvinciiv] => e2741fc8805a56ee745e8409a6f8d24b
+    [markForm] => Array
+        (
+        )
+
+    [spambot_recovery_rating] => 4
+    [spambot_recovery_title] => oHiiSyDPSwE
+    [spambot_recovery_description] => 
+    [tempForm] => Array
+        (
+            [ID_ACTIVITY] => 99
+            [user_type] => 1
+            [curricular_area] => 1
+            [rating] => 4
+            [title] => oHiiSyDPSwE
+            [details] => Please call back later tiny breated teens  Who is she?
+ Loli Cp Dorki Pedo  this video always turns me on
+ Best Lolita Sites  gorgeous girl and some nice fucking
+ chelda preteen galleries  Damn, baddest video on this site. Sooooo goooooood
+            [question] => Please call back later <a href=" http://yjaqiosarifi.yolasite.com ">tiny breated teens</a>  Who is she?
+ <a href=" http://www.netvibes.com/inuihuci#Loli_Cp_Dorki_Pedo ">Loli Cp Dorki Pedo</a>  this video always turns me on
+ <a href=" http://ekihayec.zeblog.com/ ">Best Lolita Sites</a>  gorgeous girl and some nice fucking
+ <a href=" http://www.datpiff.com/profile/aybyrorut ">chelda preteen galleries</a>  Damn, baddest video on this site. Sooooo goooooood
+            [fullname] => Please call back later <a href=" http://yjaqiosarifi.yolasite.com ">tiny breated teens</a>  Who is she?
+ <a href=" http://www.netvibes.com/inuihuci#Loli_Cp_Dorki_Pedo ">Loli Cp Dorki Pedo</a>  this video always turns me on
+ <a href=" http://ekihayec.zeblog.com/ ">Best Lolita Sites</a>  gorgeous girl and some nice fucking
+ <a href=" http://www.datpiff.com/profile/aybyrorut ">chelda preteen galleries</a>  Damn, baddest video on this site. Sooooo goooooood
+            [day] => 2
+            [qgCUKMYbMpZHQsYXo] => DEiy51uHv6xP09yaap0tmnSvSmb846YEDJV2KzIangb
+        )
+
+)
+
